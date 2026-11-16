@@ -1,0 +1,797 @@
+student_id,class_id,monthly_fee,course,teacher_id,student_status,total_course_modules,completed_modules,enrollment_date,age,student_email,class_year,extra_modules,mode_course_modules,enrollment_year
+,C-2017-096,450.0,English,TCH0030,Enrolled,12,11,2019-06-22,57,jack.anderson92@example.com,2017,0,12,2019
+STU0003,C-2026-285,520.0,Japanese,TCH0021,Enrolled,14,12,2018-01-15,29,amelia.moore20@example.com,2026,0,14,2018
+STU0004,C-2018-368,350.0,Portuguese,TCH0078,Enrolled,8,8,2017-11-19,45,thomas.brown94@example.com,2018,0,8,2017
+STU0005,C-2026-907,410.0,Dutch,,Pending,10,3,2019-08-12,58,grace.taylor6@example.com,2026,0,10,2019
+STU0006,C-2023-285,390.0,Spanish,,On hold,,10,2024-08-31,20,ethan.harris46@example.com,2023,0,10,2024
+STU0007,C-2026-651,390.0,Spanish,,On hold,10,10,2024-09-05,18,ethan.young49@example.com,2026,0,10,2024
+STU0008,C-2017-235,360.0,Italian,TCH0041,,12,5,2022-08-07,52,mia.taylor28@example.com,2017,0,9,2022
+STU0009,C-2024-147,350.0,English,,Enrolled,8,6,2021-01-22,32,arthur.allen69@example.com,2024,0,12,2021
+STU0010,C-2019-522,440.0,German,TCH0012,Pending,12,2,2017-09-18,56,oscar.wilson20@example.com,2019,0,12,2017
+STU0011,C-2023-611,350.0,Portuguese,TCH0068,Enrolled,8,1,2019-12-29,62,jack.smith88@example.com,2023,0,8,2019
+STU0012,C-2018-301,360.0,Italian,TCH0021,Enrolled,9,2,2024-01-06,64,emma.moore65@example.com,2018,0,9,2024
+,C-2025-624,410.0,English,,Pending,10,8,2020-08-20,65,lily.martin70@example.com,2025,0,12,2020
+STU0014,,520.0,Japanese,,Enrolled,14,1,2017-10-11,21,liam.thomas73@example.com,,0,14,2017
+STU0015,,,French,TCH0071,Enrolled,11,3,2025-03-09,43,,,0,11,2025
+STU0016,C-2021-409,440.0,German,TCH0057,Pending,12,5,2024-01-31,20,noah.thomas29@example.com,2021,0,12,2024
+STU0017,C-2026-226,440.0,German,,Pending,12,5,2019-09-02,18,lucas.taylor5@example.com,2026,0,12,2019
+STU0018,C-2024-220,410.0,Dutch,TCH0074,On hold,10,1,2021-11-01,,lucas.walker53@example.com,2024,0,10,2021
+,C-2019-433,520.0,Japanese,TCH0036,Enrolled,,13,2017-07-27,67,lucas.taylor57@example.com,2019,0,14,2017
+STU0022,C-2023-272,450.0,English,TCH0037,Pending,12,7,2020-04-30,61,grace.allen85@example.com,2023,0,12,2020
+STU0023,C-2017-594,,German,,Enrolled,12,3,2022-09-12,48,liam.king62@example.com,2017,0,12,2022
+STU0024,C-2019-071,,Spanish,TCH0031,Pending,10,9,2017-12-02,18,noah.king32@example.com,2019,0,10,2017
+STU0208,C-2018-383,350.0,Portuguese,,Enrolled,8,1,2021-07-19,59,grace.thomas39@example.com,2018,0,8,2021
+STU0026,C-2024-324,410.0,Dutch,TCH0002,On hold,10,8,2019-12-23,20,daniel.king13@example.com,2024,0,10,2019
+STU0027,C-2022-903,420.0,French,TCH0032,Pending,11,8,2024-01-31,69,,2022,0,11,2024
+,C-2022-209,440.0,German,TCH0065,Enrolled,12,6,2017-01-15,,mia.brown12@example.com,2022,0,12,2017
+STU0030,C-2019-653,360.0,Italian,TCH0021,On hold,9,1,2018-09-03,16,jack.lewis72@example.com,2019,0,9,2018
+STU0031,C-2022-597,,English,TCH0056,Pending,12,,2024-08-25,66,liam.jackson47@example.com,2022,0,12,2024
+STU0032,C-2018-363,440.0,German,TCH0080,Enrolled,12,,2017-04-12,67,george.thomas21@example.com,2018,0,12,2017
+,C-2022-313,520.0,Japanese,TCH0029,Enrolled,14,4,2020-02-18,37,leo.anderson52@example.com,2022,0,14,2020
+STU0035,C-2025-410,360.0,Italian,,Enrolled,9,4,2023-09-10,53,freya.moore23@example.com,2025,0,9,2023
+STU0038,C-2023-714,360.0,Italian,TCH0071,Pending,9,2,2020-05-17,40,sophia.lewis86@example.com,2023,0,9,2020
+STU0039,C-2025-854,350.0,Portuguese,TCH0039,Enrolled,8,5,2021-12-17,54,sophia.lewis75@example.com,2025,0,8,2021
+,,440.0,German,TCH0019,Enrolled,12,12,2021-08-25,55,liam.thomas61@example.com,,0,12,2021
+STU0043,C-2019-824,440.0,Japanese,,On hold,12,12,2022-12-16,24,george.wilson59@example.com,2019,0,14,2022
+,C-2023-122,,English,TCH0084,Enrolled,,,2017-06-01,63,leo.allen20@example.com,2023,0,12,2017
+STU0046,C-2025-083,360.0,,,Enrolled,9,1,2020-09-17,29,isla.johnson91@example.com,2025,0,,2020
+,C-2023-064,520.0,Japanese,TCH0054,Enrolled,14,13,2022-05-08,17,freya.king90@example.com,2023,0,14,2022
+STU0048,C-2022-306,450.0,English,,Enrolled,12,7,2023-12-08,43,henry.thomas35@example.com,2022,0,12,2023
+STU0049,C-2019-861,350.0,Portuguese,TCH0017,On hold,8,0,2023-08-12,52,george.clark76@example.com,2019,0,8,2023
+STU0050,C-2024-187,420.0,English,TCH0034,On hold,11,3,2025-06-08,36,amelia.anderson59@example.com,2024,0,12,2025
+STU0051,C-2021-855,350.0,Portuguese,TCH0061,Enrolled,12,3,2024-04-23,38,arthur.allen7@example.com,2021,0,8,2024
+,C-2017-254,450.0,English,TCH0003,Pending,12,1,2022-03-20,58,lucas.johnson61@example.com,2017,0,12,2022
+STU0053,C-2022-172,410.0,Dutch,TCH0021,Enrolled,10,9,2025-01-07,35,noah.king4@example.com,2022,0,10,2025
+,C-2018-607,440.0,German,TCH0014,On hold,12,9,2022-12-23,66,oscar.wright16@example.com,2018,0,12,2022
+STU0055,C-2022-071,350.0,Portuguese,TCH0002,Pending,8,5,2018-09-19,43,chloe.walker14@example.com,2022,0,8,2018
+STU0056,C-2019-752,350.0,Portuguese,TCH0079,Enrolled,8,4,2019-10-03,53,emily.lewis94@example.com,2019,0,8,2019
+STU0057,C-2021-903,390.0,Spanish,TCH0032,Enrolled,10,5,2026-07-18,40,sophie.wright86@example.com,2021,0,10,2026
+,C-2019-500,360.0,Italian,TCH0046,Enrolled,9,4,2022-10-18,60,,2019,0,9,2022
+STU0059,C-2018-248,440.0,German,,Enrolled,12,7,2017-03-12,61,,2018,0,12,2017
+STU0060,C-2021-227,390.0,Spanish,TCH0032,On hold,,8,2021-10-09,46,leo.king48@example.com,2021,0,10,2021
+STU0061,C-2022-720,360.0,Italian,TCH0035,Enrolled,,3,2025-05-01,62,mia.thomas16@example.com,2022,0,9,2025
+STU0062,C-2020-222,420.0,French,TCH0036,On hold,11,5,2023-08-12,30,noah.anderson38@example.com,2020,0,11,2023
+STU0063,,420.0,German,TCH0071,Enrolled,11,7,2017-02-20,,grace.johnson82@example.com,,0,12,2017
+STU0064,,410.0,Dutch,TCH0044,,10,1,2017-10-31,23,liam.moore62@example.com,,0,10,2017
+STU0066,,440.0,English,TCH0057,Enrolled,12,9,2023-12-08,35,oscar.king55@example.com,,0,12,2023
+,C-2020-641,390.0,Spanish,TCH0034,Enrolled,,1,2021-08-01,51,ethan.thomas23@example.com,2020,0,10,2021
+STU0068,C-2026-482,520.0,Japanese,,On hold,,7,2019-08-15,71,oliver.jackson90@example.com,2026,0,14,2019
+,C-2021-610,420.0,French,TCH0057,Pending,11,4,2022-07-16,41,emily.jackson90@example.com,2021,0,11,2022
+STU0071,C-2018-613,520.0,Japanese,TCH0056,Pending,14,3,2017-03-26,21,daniel.moore4@example.com,2018,0,14,2017
+STU0073,C-2023-342,360.0,Italian,TCH0014,Enrolled,9,4,2025-07-13,47,amelia.lewis89@example.com,2023,0,9,2025
+STU0074,C-2024-091,450.0,English,TCH0033,Enrolled,12,12,2023-02-01,68,noah.clark66@example.com,2024,1,12,2023
+,C-2023-056,,Japanese,TCH0067,Pending,14,12,2019-12-30,44,daniel.walker81@example.com,2023,0,14,2019
+STU0076,C-2021-449,420.0,French,TCH0016,Pending,11,,,61,ella.wright31@example.com,2021,0,11,
+STU0077,C-2018-231,350.0,English,TCH0060,On hold,8,4,2020-01-25,61,ella.johnson64@example.com,2018,0,12,2020
+,C-2024-484,350.0,Portuguese,TCH0059,On hold,8,2,2025-08-31,,isla.anderson77@example.com,2024,0,8,2025
+STU0079,C-2022-807,350.0,Portuguese,TCH0001,Enrolled,8,7,2023-01-16,53,arthur.jackson76@example.com,2022,0,8,2023
+,C-2022-341,520.0,Japanese,TCH0059,Pending,14,9,2025-09-12,31,oscar.anderson90@example.com,2022,0,14,2025
+STU0081,C-2017-326,350.0,Portuguese,TCH0049,Pending,8,2,2020-09-21,18,leo.johnson64@example.com,2017,0,8,2020
+STU0083,C-2018-873,350.0,Portuguese,TCH0069,On hold,8,1,2024-09-04,,amelia.walker70@example.com,2018,0,8,2024
+STU0084,C-2020-765,410.0,German,TCH0056,Enrolled,,4,2023-12-08,26,lily.wilson57@example.com,2020,0,12,2023
+STU0086,,,Spanish,,Enrolled,10,7,2019-11-12,30,henry.king19@example.com,,0,10,2019
+STU0087,C-2024-923,450.0,English,TCH0070,Enrolled,12,4,2024-09-28,53,,2024,0,12,2024
+,C-2024-866,410.0,Dutch,TCH0026,On hold,10,6,2023-06-13,31,oscar.walker14@example.com,2024,0,10,2023
+,C-2020-858,440.0,German,TCH0032,On hold,12,3,2026-03-28,,emily.brown47@example.com,2020,0,12,2026
+STU0090,C-2026-822,440.0,German,,On hold,12,11,2018-02-02,64,daniel.moore87@example.com,2026,0,12,2018
+STU0091,C-2021-808,450.0,English,TCH0005,Enrolled,12,5,2018-12-21,34,arthur.johnson12@example.com,2021,0,12,2018
+STU0093,C-2024-078,390.0,English,TCH0029,Enrolled,10,6,2023-08-12,21,oscar.allen47@example.com,2024,0,12,2023
+STU0094,,390.0,,TCH0075,Enrolled,10,3,2023-12-13,59,chloe.harris14@example.com,,0,,2023
+STU0096,,410.0,Dutch,TCH0031,Pending,10,8,2025-04-29,58,isla.young48@example.com,,0,10,2025
+STU0098,C-2018-703,,Italian,TCH0070,Enrolled,12,1,,28,liam.clark36@example.com,2018,0,9,
+STU0099,C-2026-022,440.0,English,,Pending,12,12,,20,ava.king27@example.com,2026,0,12,
+,C-2020-337,440.0,German,TCH0077,Enrolled,,4,2024-05-31,50,mia.johnson17@example.com,2020,0,12,2024
+STU0101,C-2019-016,450.0,English,TCH0031,Enrolled,12,2,2022-11-25,19,emma.martin34@example.com,2019,0,12,2022
+STU0102,C-2018-488,390.0,Spanish,TCH0047,On hold,10,0,2022-02-20,55,emily.hall29@example.com,2018,0,10,2022
+,C-2017-491,450.0,English,,Pending,12,,2017-09-27,21,henry.young10@example.com,2017,0,12,2017
+STU0270,,,French,TCH0056,On hold,11,3,2026-05-01,70,lucas.jackson34@example.com,,0,11,2026
+,C-2023-463,,German,TCH0053,On hold,12,11,2023-12-08,42,chloe.young52@example.com,2023,0,12,2023
+STU0106,C-2021-384,360.0,Italian,TCH0061,Enrolled,9,1,2018-06-17,43,,2021,0,9,2018
+STU0107,C-2026-576,450.0,English,,On hold,12,4,2020-12-11,19,james.lewis93@example.com,2026,0,12,2020
+,C-2026-520,390.0,Spanish,TCH0020,Enrolled,10,8,2025-07-21,,lucas.wilson45@example.com,2026,0,10,2025
+STU0109,C-2026-232,410.0,Dutch,TCH0072,On hold,10,10,2020-12-08,27,daniel.moore4@example.com,2026,4,10,2020
+STU0110,C-2019-891,450.0,English,TCH0073,On hold,12,0,2022-12-13,56,olivia.johnson95@example.com,2019,0,12,2022
+STU0111,C-2023-430,440.0,German,TCH0044,Pending,12,12,2017-12-14,36,james.jackson93@example.com,2023,1,12,2017
+STU0112,,450.0,English,TCH0011,On hold,12,7,,54,,,0,12,
+STU0113,C-2022-441,390.0,Spanish,TCH0037,Enrolled,10,6,2017-02-01,30,charlotte.jackson6@example.com,2022,0,10,2017
+STU0114,C-2021-217,440.0,German,TCH0033,Pending,12,11,2018-06-14,47,,2021,0,12,2018
+,C-2025-721,,,TCH0065,,8,,2017-11-15,18,,2025,0,,2017
+STU0116,C-2026-440,360.0,Italian,TCH0012,Enrolled,9,5,,17,oliver.wilson52@example.com,2026,0,9,
+STU0117,C-2022-091,520.0,Japanese,,Enrolled,14,1,2020-06-24,49,william.king52@example.com,2022,0,14,2020
+STU0118,C-2020-342,360.0,Italian,TCH0010,On hold,9,5,2026-03-09,65,charlotte.hall25@example.com,2020,0,9,2026
+STU0120,,520.0,Japanese,TCH0073,Enrolled,14,1,2024-01-31,44,oscar.white20@example.com,,0,14,2024
+STU0121,C-2021-606,410.0,Japanese,TCH0046,On hold,12,0,2020-03-21,18,oliver.young58@example.com,2021,0,14,2020
+STU0122,C-2018-630,390.0,Spanish,TCH0060,Enrolled,10,5,2022-08-16,28,emily.king84@example.com,2018,0,10,2022
+STU0238,C-2020-551,410.0,Dutch,TCH0012,Enrolled,10,1,2020-01-03,48,sophie.walker71@example.com,2020,0,10,2020
+STU0125,C-2025-695,390.0,Spanish,TCH0037,On hold,10,1,2018-08-03,,arthur.wright20@example.com,2025,0,10,2018
+STU0126,C-2021-672,360.0,Italian,TCH0017,On hold,9,5,2024-11-18,57,oliver.allen49@example.com,2021,0,9,2024
+STU0127,C-2023-521,390.0,Spanish,TCH0003,Pending,,7,2018-07-18,37,oliver.martin28@example.com,2023,0,10,2018
+STU0128,C-2018-303,420.0,French,TCH0065,Enrolled,11,2,2018-09-24,55,leo.white99@example.com,2018,0,11,2018
+STU0129,C-2019-852,420.0,English,TCH0057,Pending,11,3,2020-03-13,62,william.harris87@example.com,2019,0,12,2020
+,,520.0,Japanese,TCH0040,Enrolled,14,3,2025-08-18,59,freya.anderson48@example.com,,0,14,2025
+,C-2023-515,410.0,Dutch,,On hold,10,4,,71,thomas.wright18@example.com,2023,0,10,
+STU0132,C-2025-106,360.0,Italian,TCH0037,Enrolled,9,3,2021-11-27,44,lily.martin35@example.com,2025,0,9,2021
+STU0133,C-2020-837,390.0,Spanish,,Enrolled,10,5,2017-12-01,48,william.brown51@example.com,2020,0,10,2017
+STU0134,C-2020-029,360.0,Italian,TCH0013,On hold,9,4,2026-04-28,18,,2020,0,9,2026
+STU0135,C-2024-460,420.0,French,TCH0011,Pending,11,11,2021-09-30,51,mia.anderson20@example.com,2024,0,11,2021
+STU0681,C-2024-080,,German,TCH0068,Pending,12,3,2022-08-06,65,,2024,0,12,2022
+STU0137,C-2026-549,520.0,Japanese,,On hold,14,0,2019-09-13,43,grace.johnson38@example.com,2026,0,14,2019
+STU0138,C-2019-681,,Portuguese,TCH0068,Enrolled,8,8,2021-05-19,,olivia.hall70@example.com,2019,0,8,2021
+STU0139,C-2017-651,520.0,Japanese,TCH0048,Pending,14,,2025-03-22,66,arthur.smith46@example.com,2017,0,14,2025
+STU0140,C-2026-753,390.0,Spanish,TCH0018,Enrolled,10,10,2025-09-27,68,james.allen44@example.com,2026,0,10,2025
+STU0142,C-2022-318,450.0,English,TCH0070,On hold,12,3,2025-10-04,57,mia.brown97@example.com,2022,0,12,2025
+STU0144,C-2022-947,520.0,Japanese,TCH0011,On hold,14,2,2020-08-08,68,olivia.lewis78@example.com,2022,0,14,2020
+STU0145,C-2018-336,390.0,English,,Enrolled,10,7,2017-06-23,60,daniel.lewis22@example.com,2018,0,12,2017
+STU0146,C-2026-446,360.0,Italian,TCH0012,Pending,9,2,2026-07-09,48,,2026,0,9,2026
+STU0147,C-2017-130,520.0,Japanese,TCH0031,On hold,14,9,2022-01-17,18,james.clark73@example.com,2017,0,14,2022
+STU0148,C-2022-455,360.0,Italian,,Enrolled,9,9,2017-04-17,36,charlotte.harris51@example.com,2022,3,9,2017
+STU0149,C-2024-531,420.0,French,,On hold,11,3,2024-10-13,44,mia.moore91@example.com,2024,0,11,2024
+STU0150,C-2020-126,520.0,Japanese,,On hold,14,10,2020-11-24,67,ethan.young12@example.com,2020,0,14,2020
+STU0151,C-2025-556,,Spanish,TCH0039,Pending,10,3,2025-11-19,20,grace.martin47@example.com,2025,0,10,2025
+STU0152,C-2020-810,420.0,French,TCH0004,Pending,11,8,2017-12-20,,jack.king48@example.com,2020,0,11,2017
+STU0153,C-2021-408,390.0,Spanish,TCH0068,On hold,10,,2017-10-31,20,lily.lewis74@example.com,2021,0,10,2017
+STU0154,C-2024-697,520.0,Japanese,TCH0017,Enrolled,14,,2018-05-24,48,lily.johnson56@example.com,2024,0,14,2018
+STU0155,C-2021-169,420.0,French,,Pending,11,1,2024-02-15,,james.hall37@example.com,2021,0,11,2024
+STU0157,C-2026-043,,Italian,TCH0011,Enrolled,9,3,2023-12-07,57,ella.king34@example.com,2026,0,9,2023
+STU0158,,450.0,English,TCH0083,Enrolled,12,4,2024-09-21,41,henry.thomas88@example.com,,0,12,2024
+STU0159,C-2019-451,450.0,English,TCH0062,On hold,12,5,,25,sophia.white78@example.com,2019,0,12,
+STU0160,C-2023-134,,Italian,TCH0066,Pending,9,9,2024-01-31,,amelia.thomas60@example.com,2023,1,9,2024
+STU0162,C-2025-479,520.0,Japanese,TCH0040,Pending,14,7,2023-07-18,48,emma.taylor51@example.com,2025,0,14,2023
+STU0164,C-2023-375,360.0,German,TCH0052,Enrolled,9,8,2021-05-02,39,sophie.allen25@example.com,2023,0,12,2021
+STU0165,C-2025-287,520.0,Japanese,TCH0017,Enrolled,14,5,2023-10-04,51,isla.harris44@example.com,2025,0,14,2023
+STU0167,C-2022-628,420.0,French,TCH0021,Pending,,,2022-06-30,37,daniel.jackson76@example.com,2022,0,11,2022
+STU0168,C-2024-836,410.0,,TCH0048,Pending,,4,2022-04-28,53,leo.wilson54@example.com,2024,0,,2022
+STU0899,C-2026-392,390.0,Spanish,TCH0017,On hold,10,10,2019-03-05,31,ella.harris24@example.com,2026,0,10,2019
+STU0171,C-2017-723,520.0,Japanese,,On hold,14,8,2018-12-11,,jack.white85@example.com,2017,0,14,2018
+STU0172,C-2025-351,520.0,Japanese,,On hold,14,4,2019-07-11,31,daniel.walker25@example.com,2025,0,14,2019
+,C-2021-722,410.0,Dutch,TCH0063,Enrolled,10,4,2023-06-07,66,henry.harris72@example.com,2021,0,10,2023
+STU0174,C-2023-839,350.0,Portuguese,TCH0019,On hold,8,5,2023-12-08,21,liam.jackson92@example.com,2023,0,8,2023
+STU0177,C-2023-669,,French,,Enrolled,11,,2018-01-02,34,lily.jackson42@example.com,2023,0,11,2018
+STU0178,C-2025-757,440.0,German,TCH0023,Pending,12,6,2025-05-26,69,,2025,0,12,2025
+STU0179,C-2017-010,410.0,Dutch,TCH0073,Pending,10,10,2022-07-17,45,george.white37@example.com,2017,0,10,2022
+,C-2021-080,390.0,Spanish,TCH0067,Pending,10,3,2024-05-14,40,noah.thomas69@example.com,2021,0,10,2024
+,C-2018-190,450.0,Portuguese,TCH0062,Enrolled,,6,2025-06-15,32,george.thomas1@example.com,2018,0,8,2025
+STU0183,C-2022-310,410.0,Dutch,,,,1,2018-10-17,58,grace.thomas8@example.com,2022,0,10,2018
+STU0184,C-2025-946,350.0,Portuguese,TCH0016,Pending,8,2,2022-02-07,30,james.wright29@example.com,2025,0,8,2022
+STU0185,C-2023-719,360.0,Italian,,Pending,,9,2022-01-04,64,lily.thomas88@example.com,2023,0,9,2022
+STU0186,C-2018-940,360.0,Italian,,Enrolled,9,5,2018-04-22,26,sophie.allen20@example.com,2018,0,9,2018
+STU0187,C-2026-501,440.0,German,TCH0066,Enrolled,,8,,24,thomas.brown59@example.com,2026,0,12,
+STU0711,C-2021-254,360.0,Italian,,Enrolled,9,9,2023-09-24,49,amelia.brown43@example.com,2021,3,9,2023
+STU0189,C-2018-555,360.0,Italian,TCH0009,On hold,9,2,2021-04-16,27,liam.jackson53@example.com,2018,0,9,2021
+,C-2026-035,390.0,,TCH0077,Pending,10,12,2025-06-17,44,lucas.brown52@example.com,2026,2,,2025
+STU0194,C-2019-516,,English,TCH0030,On hold,12,5,2018-08-10,59,,2019,0,12,2018
+STU0195,C-2023-308,440.0,English,TCH0008,On hold,12,0,,20,ella.lewis72@example.com,2023,0,12,
+STU0196,C-2025-327,350.0,Portuguese,TCH0053,Pending,8,8,2026-07-11,64,oliver.clark24@example.com,2025,0,8,2026
+STU0198,C-2020-339,410.0,Dutch,TCH0058,On hold,10,3,2021-03-25,,olivia.allen93@example.com,2020,0,10,2021
+,C-2018-193,450.0,English,,On hold,12,3,2018-04-26,20,oscar.white39@example.com,2018,0,12,2018
+,C-2020-713,,Japanese,,On hold,14,7,2021-01-11,,jack.white37@example.com,2020,0,14,2021
+STU0201,C-2021-369,410.0,Dutch,TCH0060,On hold,10,5,2020-07-05,69,thomas.walker98@example.com,2021,0,10,2020
+,C-2024-755,440.0,German,,Enrolled,,,2023-12-09,,oscar.moore27@example.com,2024,0,12,2023
+STU0204,C-2019-144,360.0,Italian,TCH0024,Enrolled,9,0,2018-07-18,68,,2019,0,9,2018
+STU0205,C-2018-725,440.0,German,,Enrolled,12,9,2024-05-24,19,,2018,0,12,2024
+STU0206,C-2017-007,450.0,Japanese,,Enrolled,14,0,2024-10-29,34,charlotte.moore69@example.com,2017,0,14,2024
+STU0207,C-2019-110,350.0,Portuguese,TCH0068,On hold,8,4,2025-12-01,49,lucas.anderson80@example.com,2019,0,8,2025
+STU0209,C-2023-566,350.0,Portuguese,,Pending,8,6,2018-01-26,47,grace.martin11@example.com,2023,0,8,2018
+STU0210,C-2020-217,450.0,English,TCH0035,On hold,12,8,2017-05-15,33,,2020,0,12,2017
+,C-2022-017,420.0,French,TCH0076,Pending,11,2,2023-05-11,35,lily.clark10@example.com,2022,0,11,2023
+STU0212,C-2025-340,350.0,English,TCH0018,Enrolled,8,6,2017-11-08,,charlotte.harris7@example.com,2025,0,12,2017
+STU0213,C-2026-788,360.0,Italian,TCH0042,Pending,9,,2021-03-18,47,ella.moore58@example.com,2026,0,9,2021
+STU0214,C-2019-697,350.0,Portuguese,TCH0011,Pending,12,1,2021-04-06,20,thomas.thomas92@example.com,2019,0,8,2021
+STU0215,C-2023-325,420.0,French,TCH0014,Pending,11,4,2017-12-24,39,emma.jackson57@example.com,2023,0,11,2017
+,C-2023-460,420.0,French,,Pending,12,9,2020-08-21,21,olivia.harris71@example.com,2023,0,11,2020
+,C-2022-258,390.0,Spanish,,On hold,10,1,2017-01-28,45,daniel.wright26@example.com,2022,0,10,2017
+STU0220,C-2022-862,350.0,Portuguese,TCH0043,On hold,8,2,2023-10-07,54,amelia.lewis84@example.com,2022,0,8,2023
+STU0223,,410.0,Dutch,TCH0064,Enrolled,10,10,2021-09-30,32,ella.jackson31@example.com,,0,10,2021
+,C-2018-788,390.0,English,TCH0085,,10,12,2020-09-20,52,ethan.wright6@example.com,2018,3,12,2020
+STU0226,C-2018-011,350.0,Portuguese,,On hold,8,3,2021-05-22,53,charlotte.hall72@example.com,2018,0,8,2021
+STU0228,C-2022-320,420.0,French,,On hold,,1,2024-10-24,,charlotte.walker45@example.com,2022,0,11,2024
+STU0378,C-2020-529,,Portuguese,TCH0046,Enrolled,8,8,2018-11-10,16,henry.walker78@example.com,2020,0,8,2018
+STU0230,C-2025-164,450.0,French,TCH0072,On hold,11,2,2024-05-16,56,emily.thomas52@example.com,2025,0,11,2024
+,C-2023-030,350.0,Portuguese,TCH0058,Enrolled,8,,2024-11-22,29,isla.smith91@example.com,2023,0,8,2024
+STU0233,C-2026-398,360.0,,TCH0076,,,2,2023-08-15,55,james.harris59@example.com,2026,0,,2023
+STU0234,C-2019-321,390.0,English,TCH0031,Enrolled,10,2,2021-09-10,60,noah.martin48@example.com,2019,0,12,2021
+STU0286,C-2026-104,,Portuguese,TCH0039,Pending,8,3,2024-12-06,43,,2026,0,8,2024
+STU0236,C-2019-192,,Dutch,TCH0058,Enrolled,10,2,2021-04-22,18,oscar.harris2@example.com,2019,0,10,2021
+STU0237,C-2023-702,520.0,Japanese,TCH0054,On hold,14,0,2017-05-14,52,henry.martin11@example.com,2023,0,14,2017
+STU0239,C-2025-843,360.0,Italian,,Enrolled,9,3,2017-05-13,,william.wilson95@example.com,2025,0,9,2017
+STU0240,C-2021-357,520.0,Japanese,TCH0057,On hold,14,11,2020-12-07,67,lily.thomas27@example.com,2021,0,14,2020
+,C-2019-631,350.0,Portuguese,,Pending,8,,2023-12-08,38,,2019,0,8,2023
+STU0242,C-2022-721,420.0,Japanese,TCH0038,Enrolled,11,1,2025-10-24,68,oscar.hall87@example.com,2022,0,14,2025
+STU0243,C-2017-284,350.0,English,,Pending,8,6,2023-06-24,64,ava.white32@example.com,2017,0,12,2023
+STU0244,C-2023-385,410.0,Dutch,TCH0010,Enrolled,10,5,2020-09-02,33,isla.hall96@example.com,2023,0,10,2020
+STU0245,C-2018-749,450.0,English,TCH0082,Enrolled,12,3,2019-05-18,41,oscar.taylor69@example.com,2018,0,12,2019
+STU0246,C-2021-331,520.0,Japanese,TCH0044,Enrolled,14,,2018-02-12,59,sophie.walker44@example.com,2021,0,14,2018
+STU0247,C-2017-128,520.0,Japanese,TCH0057,On hold,14,14,2020-05-21,60,emma.lewis26@example.com,2017,0,14,2020
+STU0249,,440.0,German,TCH0013,Pending,12,9,2024-08-17,24,sophia.walker10@example.com,,0,12,2024
+STU0597,C-2018-406,520.0,Japanese,TCH0067,Enrolled,14,11,2025-04-25,41,noah.johnson51@example.com,2018,0,14,2025
+STU0251,C-2018-321,390.0,English,,Pending,,,2023-04-27,59,,2018,0,12,2023
+STU0253,C-2020-089,520.0,,TCH0018,Enrolled,14,5,2020-02-09,43,sophie.clark45@example.com,2020,0,,2020
+STU0254,C-2020-567,390.0,Spanish,TCH0004,On hold,10,3,2024-03-31,48,,2020,0,10,2024
+STU0255,C-2020-507,450.0,English,,,12,0,2018-06-25,,henry.wright10@example.com,2020,0,12,2018
+STU0256,,350.0,German,TCH0070,Enrolled,8,0,2017-02-26,20,lily.walker99@example.com,,0,12,2017
+STU0257,C-2020-041,410.0,Dutch,TCH0051,Enrolled,10,6,2024-03-08,42,ella.hall99@example.com,2020,0,10,2024
+STU0258,C-2021-086,420.0,French,,,,6,2025-07-24,36,thomas.johnson69@example.com,2021,0,11,2025
+,,390.0,Spanish,TCH0031,Pending,10,7,2017-08-14,23,lucas.taylor56@example.com,,0,10,2017
+STU0260,C-2019-123,410.0,Dutch,TCH0018,Pending,10,8,2021-03-04,,ethan.walker45@example.com,2019,0,10,2021
+STU0261,C-2021-751,420.0,French,TCH0004,On hold,11,1,2023-06-20,49,thomas.lewis35@example.com,2021,0,11,2023
+STU0262,C-2024-467,390.0,Spanish,TCH0008,Enrolled,,2,2018-02-26,39,oscar.king22@example.com,2024,0,10,2018
+STU0263,C-2020-759,390.0,Spanish,TCH0006,Pending,10,6,2017-05-25,39,lucas.brown61@example.com,2020,0,10,2017
+,C-2020-330,,Portuguese,TCH0054,On hold,8,1,2017-08-04,39,mia.taylor74@example.com,2020,0,8,2017
+STU0265,C-2020-824,420.0,French,TCH0052,Enrolled,11,4,2023-03-16,65,freya.young37@example.com,2020,0,11,2023
+,C-2017-378,520.0,Dutch,,Pending,14,5,2025-08-31,45,arthur.wright32@example.com,2017,0,10,2025
+,C-2025-779,440.0,German,TCH0020,On hold,,8,2026-06-01,30,george.lewis4@example.com,2025,0,12,2026
+STU0268,C-2022-002,450.0,English,TCH0040,On hold,,7,2024-12-24,42,sophia.hall31@example.com,2022,0,12,2024
+,C-2018-045,410.0,Dutch,TCH0067,On hold,10,1,2022-09-02,63,grace.harris59@example.com,2018,0,10,2022
+STU0271,C-2022-464,360.0,Italian,TCH0030,Enrolled,9,1,2018-11-05,53,sophia.johnson99@example.com,2022,0,9,2018
+STU0273,,390.0,Spanish,TCH0078,Enrolled,10,3,2023-08-12,21,sophia.white19@example.com,,0,10,2023
+STU0274,C-2021-267,450.0,English,TCH0004,Enrolled,12,8,2022-03-08,63,oscar.young72@example.com,2021,0,12,2022
+STU0275,C-2019-125,390.0,Spanish,,Pending,10,,,39,ava.anderson52@example.com,2019,0,10,
+STU0276,C-2018-023,410.0,Dutch,TCH0026,Enrolled,10,5,2022-03-04,70,thomas.johnson12@example.com,2018,0,10,2022
+STU0277,C-2019-947,450.0,English,TCH0051,Pending,12,2,2019-02-06,43,emma.clark88@example.com,2019,0,12,2019
+STU0278,C-2021-457,410.0,French,,Pending,10,,2024-01-31,42,ella.jackson64@example.com,2021,0,11,2024
+STU0279,C-2023-141,410.0,Dutch,,Pending,10,5,2025-10-06,40,ella.allen3@example.com,2023,0,10,2025
+,C-2022-935,520.0,English,TCH0050,Enrolled,14,3,2025-09-24,54,,2022,0,12,2025
+STU0281,C-2017-829,410.0,Dutch,TCH0068,On hold,10,,2023-08-12,26,lily.king30@example.com,2017,0,10,2023
+STU0282,C-2025-836,410.0,Dutch,TCH0029,Enrolled,10,9,2025-04-12,,james.martin23@example.com,2025,0,10,2025
+STU0283,C-2026-029,360.0,English,TCH0073,Enrolled,9,4,2023-08-12,,sophie.anderson64@example.com,2026,0,12,2023
+STU0285,C-2017-023,,French,TCH0076,On hold,9,5,2024-11-25,,lily.wilson68@example.com,2017,0,11,2024
+STU0287,C-2020-682,360.0,Italian,TCH0049,Enrolled,,0,2026-07-17,,,2020,0,9,2026
+STU0288,C-2019-617,450.0,,,On hold,12,2,2017-11-15,47,ella.king14@example.com,2019,0,,2017
+STU0289,C-2022-328,,German,,Pending,12,,2024-10-10,16,chloe.white58@example.com,2022,0,12,2024
+STU0290,C-2022-263,,Spanish,TCH0001,Enrolled,10,2,2021-04-01,20,isla.young94@example.com,2022,0,10,2021
+STU0291,C-2025-385,360.0,Italian,,Enrolled,9,0,2020-07-29,67,ethan.young10@example.com,2025,0,9,2020
+STU0292,C-2018-076,,Dutch,TCH0012,Pending,,5,2022-06-01,21,ethan.taylor71@example.com,2018,0,10,2022
+STU0293,C-2023-670,450.0,English,TCH0078,Enrolled,12,3,2024-10-26,37,,2023,0,12,2024
+,C-2021-305,410.0,Dutch,TCH0013,Enrolled,10,7,2021-01-17,69,isla.king71@example.com,2021,0,10,2021
+STU0295,C-2023-090,450.0,English,TCH0085,On hold,12,2,2017-12-02,18,,2023,0,12,2017
+,C-2018-316,520.0,Dutch,TCH0061,Pending,14,8,2021-02-28,57,freya.moore12@example.com,2018,0,10,2021
+STU0297,C-2022-192,,Portuguese,,Enrolled,8,4,2018-09-12,30,emily.young34@example.com,2022,0,8,2018
+STU0298,C-2018-685,390.0,Spanish,TCH0070,Enrolled,10,0,2022-11-11,51,lily.king30@example.com,2018,0,10,2022
+STU0299,C-2025-704,350.0,Portuguese,,Pending,,0,2022-10-18,41,henry.jackson11@example.com,2025,0,8,2022
+STU0301,C-2019-855,440.0,German,TCH0041,Enrolled,12,8,2020-02-06,41,olivia.clark72@example.com,2019,0,12,2020
+STU0302,C-2017-806,,Japanese,TCH0015,Enrolled,14,9,2023-04-24,53,ava.johnson73@example.com,2017,0,14,2023
+STU0303,,,Spanish,,Pending,10,7,2020-02-03,54,isla.walker74@example.com,,0,10,2020
+,C-2019-634,350.0,Portuguese,TCH0005,On hold,8,0,2021-03-06,31,freya.white89@example.com,2019,0,8,2021
+STU0305,C-2022-838,450.0,English,TCH0040,Pending,12,1,2020-05-15,59,chloe.walker90@example.com,2022,0,12,2020
+STU0307,C-2017-528,360.0,Italian,,Enrolled,9,8,2018-12-13,24,grace.hall52@example.com,2017,0,9,2018
+STU0309,C-2025-407,520.0,Japanese,,Pending,14,2,2023-03-09,44,james.walker77@example.com,2025,0,14,2023
+,C-2018-535,520.0,French,TCH0012,Pending,14,11,2018-01-12,36,leo.walker36@example.com,2018,0,11,2018
+,C-2020-276,,German,TCH0066,Pending,12,12,2025-12-25,24,oscar.smith61@example.com,2020,5,12,2025
+STU0312,,450.0,English,,Enrolled,12,4,2020-05-22,45,william.clark45@example.com,,0,12,2020
+,C-2021-656,360.0,Italian,TCH0036,Enrolled,,,2026-01-13,25,ella.jackson25@example.com,2021,0,9,2026
+,C-2022-744,,German,TCH0069,Pending,12,3,2020-04-18,35,george.harris65@example.com,2022,0,12,2020
+STU0317,C-2024-132,,Spanish,TCH0072,Pending,10,3,2025-05-07,21,,2024,0,10,2025
+,C-2024-911,390.0,Spanish,TCH0065,Enrolled,10,6,,35,oscar.clark68@example.com,2024,0,10,
+STU0320,C-2019-206,420.0,,TCH0053,On hold,11,1,2024-01-29,27,ava.white92@example.com,2019,0,,2024
+STU0321,C-2022-650,420.0,French,TCH0001,Enrolled,11,2,,65,mia.anderson98@example.com,2022,0,11,
+STU0322,C-2018-133,520.0,Japanese,TCH0082,Pending,14,0,2019-03-28,,isla.lewis62@example.com,2018,0,14,2019
+STU0323,C-2017-914,360.0,Italian,,On hold,9,3,2020-11-11,62,emma.smith81@example.com,2017,0,9,2020
+STU0324,C-2019-106,410.0,Dutch,TCH0065,On hold,10,4,2022-11-02,,ethan.taylor6@example.com,2019,0,10,2022
+STU0325,C-2023-910,360.0,Italian,TCH0044,Pending,9,6,2019-07-08,67,james.anderson22@example.com,2023,0,9,2019
+STU0326,,420.0,French,TCH0076,On hold,,0,2019-11-14,,noah.harris92@example.com,,0,11,2019
+STU0327,C-2026-050,,English,TCH0084,Pending,12,6,2019-11-02,20,liam.wilson54@example.com,2026,0,12,2019
+STU0328,C-2019-211,520.0,Japanese,TCH0039,Pending,14,4,2024-11-10,49,leo.wilson85@example.com,2019,0,14,2024
+,C-2023-851,420.0,French,TCH0066,Pending,11,,2025-09-22,47,,2023,0,11,2025
+STU0330,C-2025-207,450.0,Dutch,TCH0053,On hold,12,,2019-08-19,,ethan.brown71@example.com,2025,0,10,2019
+STU0336,C-2022-627,350.0,Portuguese,TCH0017,On hold,12,3,2017-09-17,72,george.walker15@example.com,2022,0,8,2017
+STU0338,C-2017-659,,English,TCH0065,On hold,12,12,2019-09-14,20,,2017,0,12,2019
+,C-2021-052,360.0,Italian,TCH0071,Enrolled,9,7,2017-12-27,45,isla.thomas11@example.com,2021,0,9,2017
+STU0341,C-2026-634,,Spanish,,On hold,10,0,2022-02-05,39,,2026,0,10,2022
+STU0343,C-2025-535,410.0,Dutch,TCH0014,On hold,10,6,2023-11-08,24,freya.martin64@example.com,2025,0,10,2023
+STU0344,C-2020-124,440.0,German,TCH0012,Enrolled,12,1,2023-08-12,37,chloe.anderson92@example.com,2020,0,12,2023
+STU0345,C-2024-469,390.0,Spanish,TCH0064,Pending,10,9,2025-10-05,43,,2024,0,10,2025
+STU0347,,440.0,German,TCH0038,On hold,12,9,2026-06-16,42,thomas.johnson18@example.com,,0,12,2026
+,C-2025-648,360.0,Italian,,Pending,,,2023-02-01,38,daniel.jackson88@example.com,2025,0,9,2023
+STU0351,C-2021-700,420.0,German,,On hold,11,8,2026-02-17,64,,2021,0,12,2026
+,,520.0,Japanese,TCH0083,Enrolled,14,11,,34,lucas.hall90@example.com,,0,14,
+,C-2022-566,350.0,Portuguese,TCH0002,,8,3,2023-08-08,69,sophia.wright57@example.com,2022,0,8,2023
+STU0354,,440.0,German,TCH0023,Enrolled,12,1,2021-10-22,48,,,0,12,2021
+STU0355,C-2025-271,410.0,Dutch,TCH0021,Pending,10,,2020-08-14,61,emma.white60@example.com,2025,0,10,2020
+STU0356,C-2026-864,450.0,English,TCH0063,Enrolled,,,2025-10-26,30,olivia.white68@example.com,2026,0,12,2025
+STU0357,C-2023-557,420.0,French,TCH0012,On hold,11,5,2019-06-14,37,lucas.anderson85@example.com,2023,0,11,2019
+STU0358,C-2025-844,520.0,Japanese,TCH0015,Pending,14,14,2017-06-13,55,,2025,0,14,2017
+STU0359,C-2023-938,360.0,Italian,TCH0050,Enrolled,9,,2022-09-15,49,jack.jackson4@example.com,2023,0,9,2022
+,C-2020-687,390.0,German,TCH0055,On hold,10,6,2024-09-11,,sophia.allen90@example.com,2020,0,12,2024
+STU0362,,420.0,French,TCH0005,Enrolled,11,4,2023-06-14,66,olivia.brown23@example.com,,0,11,2023
+STU0363,C-2021-418,440.0,German,TCH0058,Pending,12,10,2017-01-25,40,william.white3@example.com,2021,0,12,2017
+STU0364,C-2026-047,390.0,Spanish,TCH0046,Enrolled,10,4,2021-06-07,21,oliver.jackson78@example.com,2026,0,10,2021
+,C-2024-161,450.0,English,TCH0018,On hold,12,2,2025-12-01,56,thomas.allen38@example.com,2024,0,12,2025
+STU0366,C-2017-567,360.0,Italian,TCH0016,Enrolled,,8,2020-06-02,41,emma.king77@example.com,2017,0,9,2020
+,C-2025-473,450.0,English,TCH0038,On hold,12,9,2021-01-02,62,,2025,0,12,2021
+STU0369,C-2020-103,420.0,French,TCH0080,Pending,11,7,2024-05-24,47,freya.anderson41@example.com,2020,0,11,2024
+STU0371,C-2019-696,360.0,Italian,TCH0062,,9,8,2024-03-29,47,emily.harris40@example.com,2019,0,9,2024
+STU0372,C-2021-880,390.0,Spanish,,On hold,10,0,2017-05-08,20,mia.taylor94@example.com,2021,0,10,2017
+STU0374,,410.0,Dutch,TCH0051,Enrolled,10,9,2022-10-07,31,charlotte.smith85@example.com,,0,10,2022
+STU0375,C-2024-164,420.0,French,TCH0073,Pending,11,3,2017-09-15,,arthur.walker46@example.com,2024,0,11,2017
+STU0376,C-2022-240,410.0,Dutch,TCH0027,On hold,10,0,,72,isla.walker59@example.com,2022,0,10,
+STU0377,C-2025-649,390.0,Spanish,TCH0034,Pending,10,3,2019-10-28,53,isla.clark47@example.com,2025,0,10,2019
+,C-2018-527,440.0,German,TCH0012,On hold,,,2019-08-02,18,ethan.martin47@example.com,2018,0,12,2019
+STU0380,C-2022-738,350.0,Portuguese,TCH0062,Pending,8,6,2017-06-26,26,,2022,0,8,2017
+STU0381,C-2026-607,420.0,French,TCH0018,Pending,,2,2022-10-18,18,freya.king19@example.com,2026,0,11,2022
+,C-2026-578,350.0,Portuguese,TCH0085,Pending,8,3,2019-06-18,54,olivia.anderson58@example.com,2026,0,8,2019
+STU0523,C-2023-700,440.0,German,TCH0061,Enrolled,12,4,2024-08-11,16,ava.hall56@example.com,2023,0,12,2024
+,C-2018-017,,French,TCH0067,Pending,11,2,2023-12-08,18,chloe.johnson78@example.com,2018,0,11,2023
+,C-2025-516,450.0,English,TCH0012,On hold,12,0,,50,leo.johnson78@example.com,2025,0,12,
+STU0726,C-2018-148,390.0,Spanish,,Enrolled,10,5,,,jack.clark89@example.com,2018,0,10,
+,C-2023-138,390.0,Spanish,,On hold,,8,2019-02-14,54,george.taylor37@example.com,2023,0,10,2019
+STU0388,C-2017-592,450.0,English,TCH0067,On hold,12,5,2018-03-13,,isla.anderson89@example.com,2017,0,12,2018
+,C-2019-876,350.0,Portuguese,,Enrolled,8,8,2020-10-18,29,thomas.martin13@example.com,2019,0,8,2020
+STU0392,C-2019-399,450.0,English,TCH0012,Enrolled,12,1,2021-02-27,21,henry.wright56@example.com,2019,0,12,2021
+STU0393,C-2026-039,390.0,Spanish,TCH0052,On hold,10,2,2017-02-13,,grace.wright8@example.com,2026,0,10,2017
+,C-2025-293,,German,,On hold,12,5,2017-01-02,18,daniel.martin87@example.com,2025,0,12,2017
+STU0395,C-2018-283,420.0,Dutch,TCH0046,Enrolled,11,0,2023-03-02,49,isla.king26@example.com,2018,0,10,2023
+STU0396,C-2025-937,410.0,Dutch,TCH0045,Enrolled,10,6,2019-12-06,45,lucas.wright25@example.com,2025,0,10,2019
+STU0397,,420.0,French,TCH0072,Pending,11,8,2026-02-13,23,charlotte.jackson44@example.com,,0,11,2026
+,C-2024-387,410.0,Dutch,TCH0032,Enrolled,10,9,2018-04-22,45,lily.young88@example.com,2024,0,10,2018
+,C-2018-392,410.0,German,TCH0012,Pending,10,0,2024-01-31,50,william.harris67@example.com,2018,0,12,2024
+STU0402,C-2019-798,360.0,Japanese,TCH0016,Enrolled,9,8,2022-05-30,16,leo.walker79@example.com,2019,0,14,2022
+STU0403,C-2026-323,,Italian,TCH0074,Pending,9,9,2025-05-31,48,henry.martin98@example.com,2026,1,9,2025
+STU0404,C-2017-539,420.0,French,TCH0062,Enrolled,11,10,,71,charlotte.harris51@example.com,2017,0,11,
+STU0405,C-2022-706,520.0,Japanese,,Enrolled,14,14,2019-11-30,36,isla.king13@example.com,2022,1,14,2019
+,C-2025-270,420.0,French,TCH0035,Pending,11,7,2021-09-13,27,daniel.white47@example.com,2025,0,11,2021
+STU0407,C-2022-875,,English,TCH0036,,9,3,2020-01-11,52,ethan.king17@example.com,2022,0,12,2020
+STU0408,C-2025-443,440.0,German,TCH0026,Enrolled,12,0,2022-08-09,67,thomas.johnson61@example.com,2025,0,12,2022
+,C-2025-547,420.0,French,,On hold,11,6,2018-11-01,19,,2025,0,11,2018
+STU0411,C-2022-021,450.0,Dutch,TCH0016,Pending,10,9,,52,oscar.wright26@example.com,2022,0,10,
+STU0412,C-2022-333,410.0,Dutch,TCH0058,Enrolled,,10,2018-11-18,20,isla.wright37@example.com,2022,0,10,2018
+STU0413,C-2023-647,360.0,Italian,TCH0010,On hold,9,5,2020-01-01,18,ethan.white30@example.com,2023,0,9,2020
+STU0414,C-2021-909,350.0,Portuguese,TCH0047,On hold,12,0,2019-08-20,70,william.martin24@example.com,2021,0,8,2019
+STU0415,C-2018-216,410.0,Dutch,TCH0051,Enrolled,10,0,2021-06-15,51,noah.taylor61@example.com,2018,0,10,2021
+STU0416,C-2018-269,390.0,Spanish,TCH0011,On hold,10,10,2018-06-02,63,oliver.thomas32@example.com,2018,4,10,2018
+,C-2025-859,,French,TCH0004,Enrolled,11,7,2023-01-24,71,leo.harris42@example.com,2025,0,11,2023
+STU0418,C-2025-456,410.0,Dutch,TCH0070,Enrolled,10,10,2022-11-15,56,sophie.wright59@example.com,2025,1,10,2022
+,C-2022-494,410.0,Dutch,TCH0012,Pending,10,2,2017-01-01,32,oliver.harris53@example.com,2022,0,10,2017
+STU0420,C-2022-294,420.0,French,TCH0069,Enrolled,11,4,2024-01-31,46,grace.walker97@example.com,2022,0,11,2024
+STU0421,C-2026-237,410.0,Dutch,TCH0071,Pending,10,6,2025-01-07,43,sophia.lewis72@example.com,2026,0,10,2025
+STU0422,C-2023-226,350.0,Portuguese,,On hold,8,4,2025-05-02,64,ella.thomas67@example.com,2023,0,8,2025
+STU0424,C-2020-329,520.0,French,TCH0020,Pending,14,4,2025-01-08,22,jack.smith24@example.com,2020,0,11,2025
+STU0427,C-2023-849,410.0,Dutch,,Enrolled,10,0,2025-03-31,63,,2023,0,10,2025
+,C-2025-682,390.0,Spanish,TCH0061,On hold,10,10,2023-03-02,26,leo.jackson42@example.com,2025,0,10,2023
+STU0429,C-2021-493,390.0,Spanish,,On hold,12,1,2021-11-14,20,freya.brown86@example.com,2021,0,10,2021
+,,360.0,Italian,TCH0075,On hold,9,9,2023-09-09,18,,,0,9,2023
+STU0431,C-2022-790,420.0,French,TCH0032,Enrolled,11,5,2020-12-27,55,henry.taylor88@example.com,2022,0,11,2020
+STU0433,C-2017-706,440.0,German,TCH0046,On hold,12,7,2023-02-02,61,mia.brown63@example.com,2017,0,12,2023
+STU0434,C-2020-581,520.0,Japanese,TCH0070,Enrolled,14,13,2023-03-22,71,amelia.young36@example.com,2020,0,14,2023
+STU0435,C-2018-544,420.0,French,TCH0058,Enrolled,11,7,2024-02-27,39,chloe.moore70@example.com,2018,0,11,2024
+STU0436,,350.0,Portuguese,TCH0080,Enrolled,8,1,2021-05-07,36,lily.wright31@example.com,,0,8,2021
+STU0439,C-2024-539,350.0,Portuguese,TCH0007,On hold,8,0,2022-07-06,20,lucas.wright92@example.com,2024,0,8,2022
+STU0440,C-2024-821,390.0,Spanish,TCH0047,Pending,10,9,2017-06-16,19,chloe.harris91@example.com,2024,0,10,2017
+STU0442,C-2026-641,440.0,German,TCH0072,Enrolled,12,9,2022-02-22,56,arthur.wilson99@example.com,2026,0,12,2022
+STU0443,C-2018-171,,Portuguese,TCH0071,Enrolled,8,8,2020-12-14,26,charlotte.white85@example.com,2018,0,8,2020
+STU0444,,360.0,Italian,TCH0053,Pending,9,9,2021-03-17,31,,,0,9,2021
+STU0445,,410.0,Dutch,TCH0051,Pending,10,0,2024-01-31,54,,,0,10,2024
+,C-2021-228,450.0,English,TCH0041,Pending,12,8,2018-09-26,48,lily.moore71@example.com,2021,0,12,2018
+STU0447,C-2017-472,390.0,Spanish,TCH0020,Enrolled,10,3,2020-05-15,20,mia.harris75@example.com,2017,0,10,2020
+,C-2026-410,390.0,Spanish,TCH0010,Pending,10,9,2024-03-15,47,thomas.walker23@example.com,2026,0,10,2024
+STU0449,C-2017-749,,Dutch,,Enrolled,10,6,2018-05-09,72,george.white45@example.com,2017,0,10,2018
+STU0450,C-2026-012,440.0,German,TCH0007,On hold,12,9,2022-08-20,50,charlotte.brown41@example.com,2026,0,12,2022
+STU0451,,440.0,German,,Pending,12,6,2020-10-08,66,lucas.lewis38@example.com,,0,12,2020
+STU0452,C-2024-586,390.0,Spanish,TCH0071,Enrolled,10,6,2018-07-07,48,mia.taylor52@example.com,2024,0,10,2018
+STU0453,,520.0,Japanese,,Pending,14,3,2019-12-27,49,jack.wright95@example.com,,0,14,2019
+STU0454,C-2022-702,350.0,Portuguese,TCH0015,Pending,8,5,2024-05-08,28,william.harris45@example.com,2022,0,8,2024
+STU0455,C-2021-174,450.0,Japanese,TCH0079,On hold,12,3,2021-03-12,18,,2021,0,14,2021
+,C-2024-328,,French,,Enrolled,11,9,2023-05-05,34,ella.jackson61@example.com,2024,0,11,2023
+STU0458,C-2017-386,420.0,French,TCH0033,On hold,11,11,2017-08-06,66,liam.jackson26@example.com,2017,0,11,2017
+STU0460,C-2022-497,390.0,Spanish,,Pending,10,0,2022-12-09,61,charlotte.young72@example.com,2022,0,10,2022
+STU0461,C-2022-502,410.0,English,TCH0012,Pending,12,4,2020-02-04,56,,2022,0,12,2020
+STU0462,C-2021-900,450.0,English,TCH0004,Enrolled,12,10,,41,lucas.johnson44@example.com,2021,0,12,
+,C-2019-595,440.0,German,,On hold,12,12,2023-05-03,43,grace.hall18@example.com,2019,0,12,2023
+STU0465,C-2022-070,420.0,French,TCH0024,Enrolled,11,11,,17,chloe.johnson94@example.com,2022,4,11,
+,C-2026-238,440.0,German,TCH0004,On hold,12,9,2024-04-14,48,olivia.walker18@example.com,2026,0,12,2024
+STU0468,C-2019-873,360.0,Italian,TCH0063,Enrolled,9,0,2017-03-03,30,,2019,0,9,2017
+,C-2023-228,,Dutch,TCH0027,Pending,10,5,2021-10-18,47,ethan.young79@example.com,2023,0,10,2021
+STU0470,C-2017-623,350.0,Portuguese,TCH0041,Pending,,8,2018-03-24,50,,2017,0,8,2018
+STU0471,C-2024-847,520.0,Japanese,TCH0032,Pending,14,8,2020-04-07,,arthur.brown72@example.com,2024,0,14,2020
+,C-2023-906,520.0,Japanese,TCH0037,Enrolled,14,14,2022-10-19,55,ethan.lewis38@example.com,2023,0,14,2022
+STU0473,C-2024-850,420.0,French,TCH0012,Enrolled,11,2,2020-08-17,50,ethan.king90@example.com,2024,0,11,2020
+STU0474,C-2017-184,520.0,Japanese,,On hold,14,,2025-03-23,,freya.young12@example.com,2017,0,14,2025
+STU0475,C-2018-117,390.0,Spanish,TCH0082,Pending,10,8,2021-04-01,40,olivia.hall91@example.com,2018,0,10,2021
+STU0477,C-2021-642,,Japanese,,Enrolled,14,3,2022-08-01,64,sophia.smith80@example.com,2021,0,14,2022
+STU0478,C-2025-827,520.0,Japanese,TCH0078,Enrolled,14,7,2021-12-15,58,lucas.anderson76@example.com,2025,0,14,2021
+STU0479,C-2026-615,390.0,Spanish,TCH0032,Enrolled,10,2,2024-04-29,19,daniel.allen27@example.com,2026,0,10,2024
+STU0480,C-2017-149,360.0,Italian,TCH0074,Pending,9,6,2024-07-15,,amelia.taylor7@example.com,2017,0,9,2024
+STU0482,C-2023-864,,Spanish,TCH0038,Pending,10,4,2021-08-22,71,ava.wilson89@example.com,2023,0,10,2021
+STU0483,C-2020-627,440.0,English,TCH0014,Enrolled,12,6,2020-07-20,34,henry.wright91@example.com,2020,0,12,2020
+STU0484,C-2025-589,,Dutch,TCH0017,Pending,10,,2024-12-12,67,,2025,0,10,2024
+STU0485,C-2020-002,410.0,Dutch,TCH0004,Enrolled,10,3,2021-08-23,70,ella.wilson95@example.com,2020,0,10,2021
+,C-2022-359,450.0,English,,On hold,12,1,2022-09-07,66,grace.jackson33@example.com,2022,0,12,2022
+STU0488,C-2024-939,360.0,English,TCH0005,Enrolled,9,8,2023-08-12,45,henry.johnson81@example.com,2024,0,12,2023
+,C-2022-727,410.0,Dutch,TCH0035,Pending,10,7,2022-11-21,39,olivia.walker31@example.com,2022,0,10,2022
+STU0492,C-2019-115,410.0,Dutch,,Pending,10,0,2024-01-31,48,george.taylor57@example.com,2019,0,10,2024
+,C-2022-946,440.0,German,TCH0068,On hold,12,1,2018-06-28,65,lily.white19@example.com,2022,0,12,2018
+STU0494,C-2017-471,440.0,German,TCH0067,On hold,12,9,2022-03-28,59,emma.jackson6@example.com,2017,0,12,2022
+STU0495,C-2018-534,450.0,English,TCH0003,On hold,12,3,2024-01-31,28,,2018,0,12,2024
+STU0496,C-2024-688,360.0,Italian,TCH0035,Pending,9,9,,16,ethan.moore15@example.com,2024,0,9,
+STU0497,C-2025-359,440.0,German,TCH0035,On hold,12,2,2023-11-17,31,grace.jackson74@example.com,2025,0,12,2023
+STU0498,C-2025-455,360.0,Italian,TCH0017,Enrolled,9,0,2021-05-25,40,,2025,0,9,2021
+STU0499,C-2026-913,420.0,French,TCH0079,Enrolled,11,10,2025-06-23,,oliver.white26@example.com,2026,0,11,2025
+,C-2019-882,440.0,German,TCH0047,Enrolled,12,7,2022-05-01,45,ethan.white42@example.com,2019,0,12,2022
+STU0502,C-2022-491,390.0,Spanish,TCH0022,Enrolled,10,2,2021-07-20,52,lily.harris78@example.com,2022,0,10,2021
+STU0505,C-2018-758,420.0,French,TCH0015,On hold,11,7,2021-07-21,,amelia.allen13@example.com,2018,0,11,2021
+STU0507,C-2019-677,450.0,French,TCH0058,On hold,12,3,2020-07-20,44,isla.wright74@example.com,2019,0,11,2020
+STU0508,C-2026-814,,Dutch,TCH0056,Enrolled,10,10,2018-06-07,55,olivia.king2@example.com,2026,4,10,2018
+STU0509,C-2017-379,410.0,Dutch,TCH0001,Enrolled,12,6,2024-01-05,31,noah.jackson4@example.com,2017,0,10,2024
+STU0510,C-2023-416,360.0,Italian,,Enrolled,12,3,2026-06-17,24,leo.martin61@example.com,2023,0,9,2026
+STU0511,C-2023-158,360.0,Italian,TCH0017,On hold,9,2,2021-11-24,17,emma.taylor83@example.com,2023,0,9,2021
+STU0512,,420.0,French,TCH0012,Enrolled,,6,2022-01-18,48,daniel.martin59@example.com,,0,11,2022
+STU0513,C-2022-232,350.0,Portuguese,TCH0055,Enrolled,8,8,2023-02-16,31,sophie.walker94@example.com,2022,0,8,2023
+STU0514,C-2017-039,360.0,Italian,TCH0048,Enrolled,9,2,,21,,2017,0,9,
+STU0515,C-2024-530,410.0,Dutch,TCH0067,On hold,10,10,2024-01-31,63,lucas.walker81@example.com,2024,0,10,2024
+STU0516,C-2026-055,410.0,Dutch,TCH0069,Enrolled,10,9,2020-12-16,46,henry.young66@example.com,2026,0,10,2020
+STU0517,C-2021-172,410.0,Dutch,TCH0077,Pending,10,10,2018-11-24,19,arthur.king34@example.com,2021,1,10,2018
+STU0518,C-2021-829,450.0,English,TCH0037,On hold,12,12,2018-06-27,20,olivia.johnson65@example.com,2021,0,12,2018
+,C-2021-802,420.0,French,TCH0063,Pending,11,1,2026-03-20,37,thomas.hall5@example.com,2021,0,11,2026
+STU0521,C-2024-771,420.0,French,,Pending,12,2,2025-03-27,56,leo.young93@example.com,2024,0,11,2025
+STU0522,C-2017-658,360.0,Italian,TCH0015,On hold,9,4,2025-06-09,46,ethan.young52@example.com,2017,0,9,2025
+STU0526,C-2022-561,420.0,German,TCH0002,On hold,11,1,2019-06-18,49,emma.lewis13@example.com,2022,0,12,2019
+STU0527,C-2021-198,410.0,Dutch,,Enrolled,10,3,2018-05-14,69,liam.wright85@example.com,2021,0,10,2018
+STU0528,C-2018-877,390.0,Spanish,TCH0049,Enrolled,10,4,2024-05-29,27,freya.wilson90@example.com,2018,0,10,2024
+STU0529,,390.0,Spanish,TCH0055,Enrolled,10,0,2020-09-24,33,mia.martin10@example.com,,0,10,2020
+STU0530,,450.0,English,TCH0023,On hold,12,6,2022-07-09,55,olivia.walker26@example.com,,0,12,2022
+STU0531,C-2019-554,390.0,Spanish,TCH0028,Enrolled,10,1,2024-01-31,32,george.young92@example.com,2019,0,10,2024
+STU0532,C-2024-020,,Dutch,,On hold,10,4,2020-09-12,20,george.brown86@example.com,2024,0,10,2020
+STU0534,C-2018-581,520.0,Japanese,TCH0043,Pending,14,1,2026-07-28,57,isla.brown81@example.com,2018,0,14,2026
+STU0535,C-2018-862,360.0,Italian,,On hold,9,3,2021-05-17,40,ethan.allen6@example.com,2018,0,9,2021
+STU0536,,390.0,Spanish,TCH0081,Pending,10,10,2023-08-26,,arthur.anderson18@example.com,,2,10,2023
+STU0537,C-2024-399,440.0,German,,Enrolled,12,0,2020-10-15,17,henry.allen58@example.com,2024,0,12,2020
+STU0540,C-2024-626,390.0,Spanish,TCH0076,Pending,10,9,2017-09-16,47,chloe.wilson15@example.com,2024,0,10,2017
+STU0541,C-2023-346,440.0,German,TCH0042,Enrolled,12,5,2017-07-06,24,leo.king70@example.com,2023,0,12,2017
+STU0542,C-2022-065,420.0,French,TCH0036,Pending,11,5,2021-12-02,60,lily.lewis22@example.com,2022,0,11,2021
+STU0545,C-2020-179,350.0,Portuguese,TCH0077,Enrolled,,4,2017-01-19,21,grace.walker79@example.com,2020,0,8,2017
+STU0546,C-2020-121,,German,TCH0080,On hold,12,,2017-08-06,30,oscar.allen65@example.com,2020,0,12,2017
+STU0548,C-2021-343,350.0,Portuguese,TCH0006,Enrolled,8,2,2022-10-11,27,arthur.brown69@example.com,2021,0,8,2022
+,C-2018-917,390.0,,TCH0057,Enrolled,10,5,2018-03-28,59,william.anderson96@example.com,2018,0,,2018
+,C-2020-101,360.0,Italian,,Pending,9,9,2021-11-21,46,isla.thomas10@example.com,2020,0,9,2021
+STU0551,C-2020-625,420.0,French,TCH0023,On hold,11,3,2019-04-09,62,james.johnson59@example.com,2020,0,11,2019
+STU0552,C-2019-033,,Italian,TCH0036,Pending,9,2,2020-04-23,42,noah.young59@example.com,2019,0,9,2020
+STU0553,C-2026-928,420.0,English,,Enrolled,11,3,2026-05-22,47,olivia.lewis67@example.com,2026,0,12,2026
+STU0554,C-2021-015,520.0,Japanese,,,14,14,2023-06-08,30,,2021,0,14,2023
+STU0555,C-2023-046,450.0,English,TCH0061,Enrolled,12,12,2018-02-06,46,william.hall51@example.com,2023,0,12,2018
+STU0556,C-2024-247,520.0,Japanese,TCH0072,Pending,12,5,2024-04-06,24,grace.lewis28@example.com,2024,0,14,2024
+STU0558,C-2023-190,,French,TCH0081,Pending,11,6,2017-05-14,20,grace.smith81@example.com,2023,0,11,2017
+STU0559,,410.0,Dutch,,Pending,10,3,2024-07-26,72,thomas.taylor80@example.com,,0,10,2024
+,C-2019-343,440.0,German,TCH0070,,12,9,2025-05-10,64,ella.walker95@example.com,2019,0,12,2025
+STU0562,C-2022-362,440.0,German,TCH0065,Enrolled,12,12,2022-08-16,39,mia.brown9@example.com,2022,2,12,2022
+STU0563,C-2024-727,390.0,Spanish,TCH0058,Enrolled,10,7,2021-05-20,72,thomas.taylor25@example.com,2024,0,10,2021
+STU0564,C-2021-079,420.0,French,TCH0022,On hold,11,3,2017-04-03,25,noah.johnson64@example.com,2021,0,11,2017
+,C-2023-699,410.0,Dutch,TCH0061,Pending,10,0,2017-09-15,57,william.young95@example.com,2023,0,10,2017
+STU0566,C-2020-855,450.0,English,TCH0053,Pending,12,10,2026-06-11,53,ella.white63@example.com,2020,0,12,2026
+STU0569,C-2019-244,420.0,French,TCH0006,Pending,11,,2023-04-23,32,sophie.johnson57@example.com,2019,0,11,2023
+STU0570,C-2022-353,450.0,English,TCH0048,Enrolled,12,,2024-01-31,35,jack.martin69@example.com,2022,0,12,2024
+,C-2021-877,420.0,French,,Pending,11,11,2017-11-01,24,sophie.harris36@example.com,2021,0,11,2017
+STU0572,C-2022-706,520.0,Japanese,TCH0062,Pending,14,0,,,ava.allen15@example.com,2022,0,14,
+STU0573,C-2024-366,440.0,German,TCH0042,Pending,12,3,2017-04-03,49,daniel.anderson75@example.com,2024,0,12,2017
+STU0574,C-2025-870,390.0,Spanish,TCH0012,Enrolled,10,,2024-06-24,54,sophia.walker41@example.com,2025,0,10,2024
+STU0575,C-2023-152,360.0,Italian,TCH0048,Enrolled,9,,,38,james.smith37@example.com,2023,0,9,
+STU0576,C-2020-746,450.0,Spanish,TCH0054,On hold,10,6,2023-08-03,43,oliver.martin94@example.com,2020,0,10,2023
+STU0578,C-2023-180,410.0,Dutch,TCH0073,Enrolled,,8,,34,,2023,0,10,
+,C-2026-312,410.0,Dutch,TCH0072,On hold,10,4,2026-05-11,25,lucas.smith1@example.com,2026,0,10,2026
+STU0580,C-2018-670,520.0,Japanese,TCH0054,Enrolled,14,12,2017-10-01,,henry.thomas4@example.com,2018,0,14,2017
+STU0581,C-2026-493,,Italian,,Enrolled,9,9,,48,grace.wilson48@example.com,2026,0,9,
+,C-2017-297,360.0,Dutch,TCH0068,Pending,9,2,2025-06-10,56,charlotte.anderson99@example.com,2017,0,10,2025
+STU0586,C-2025-629,440.0,,TCH0054,Enrolled,12,3,2020-11-27,68,george.taylor15@example.com,2025,0,,2020
+STU0587,C-2022-143,410.0,Dutch,TCH0077,Pending,10,1,,63,ethan.jackson4@example.com,2022,0,10,
+STU0588,C-2020-315,420.0,,TCH0027,Enrolled,11,1,,64,olivia.lewis89@example.com,2020,0,,
+,C-2023-044,520.0,English,TCH0014,On hold,14,7,2024-01-31,19,thomas.hall76@example.com,2023,0,12,2024
+STU0590,,390.0,,TCH0013,On hold,10,3,2020-12-10,53,george.wright27@example.com,,0,,2020
+,C-2018-150,450.0,English,TCH0075,Pending,12,12,2022-08-31,65,james.martin65@example.com,2018,1,12,2022
+STU0593,C-2025-872,440.0,German,TCH0047,Enrolled,12,5,2019-05-28,69,emily.wilson24@example.com,2025,0,12,2019
+STU0594,C-2023-116,440.0,German,TCH0016,On hold,12,12,2020-03-26,47,noah.hall18@example.com,2023,0,12,2020
+STU0595,C-2018-336,450.0,English,TCH0015,Enrolled,12,4,2021-12-24,63,,2018,0,12,2021
+STU0596,C-2025-418,440.0,German,,Enrolled,,5,2024-07-24,59,oscar.taylor61@example.com,2025,0,12,2024
+STU0599,C-2023-365,410.0,Dutch,TCH0078,Enrolled,10,7,2019-10-24,,henry.hall36@example.com,2023,0,10,2019
+STU0600,C-2024-237,,Japanese,TCH0004,Pending,14,,2021-04-17,47,arthur.brown9@example.com,2024,0,14,2021
+STU0601,C-2019-311,360.0,Italian,TCH0010,,,7,2019-12-08,34,thomas.young26@example.com,2019,0,9,2019
+STU0602,C-2025-560,360.0,Italian,TCH0005,Enrolled,9,5,2023-08-12,44,,2025,0,9,2023
+,C-2017-182,450.0,English,,Enrolled,,6,2018-03-25,61,william.johnson40@example.com,2017,0,12,2018
+,C-2025-702,520.0,English,TCH0061,Enrolled,14,7,2023-12-02,32,charlotte.brown51@example.com,2025,0,12,2023
+STU0605,C-2021-329,360.0,Italian,TCH0004,Enrolled,9,9,,67,,2021,0,9,
+STU0606,C-2023-100,360.0,Italian,TCH0045,Pending,,3,2024-04-08,58,william.harris8@example.com,2023,0,9,2024
+STU0607,C-2026-087,,Dutch,TCH0040,Enrolled,10,5,2024-05-18,50,amelia.martin3@example.com,2026,0,10,2024
+,C-2026-528,350.0,Portuguese,TCH0035,Pending,8,,2021-05-18,,grace.walker76@example.com,2026,0,8,2021
+STU0609,C-2026-101,360.0,Italian,,Pending,9,5,2020-05-11,67,amelia.walker65@example.com,2026,0,9,2020
+STU0610,C-2023-207,360.0,Italian,TCH0082,Pending,9,4,2023-06-08,34,chloe.allen28@example.com,2023,0,9,2023
+STU0611,C-2020-640,350.0,Portuguese,TCH0075,Enrolled,8,8,2019-05-10,20,sophie.white35@example.com,2020,0,8,2019
+,C-2018-668,360.0,Italian,TCH0065,On hold,9,6,2024-01-04,28,william.allen41@example.com,2018,0,9,2024
+STU0613,C-2025-185,520.0,Japanese,TCH0081,On hold,14,13,2024-02-26,58,,2025,0,14,2024
+STU0614,C-2026-745,350.0,Portuguese,,Enrolled,8,2,2021-11-19,31,james.young19@example.com,2026,0,8,2021
+STU0615,C-2022-881,350.0,Portuguese,,Enrolled,8,4,2024-09-14,68,oscar.lewis35@example.com,2022,0,8,2024
+STU0616,C-2023-245,440.0,German,,Enrolled,,7,2021-09-25,45,emma.thomas40@example.com,2023,0,12,2021
+STU0617,C-2020-164,,English,,Enrolled,12,2,2017-06-22,51,mia.moore85@example.com,2020,0,12,2017
+STU0618,C-2017-057,520.0,Japanese,TCH0041,Enrolled,14,,2026-06-02,39,,2017,0,14,2026
+STU0621,C-2024-547,450.0,English,TCH0015,Enrolled,12,3,2018-08-17,59,jack.lewis61@example.com,2024,0,12,2018
+STU0622,C-2024-733,360.0,Italian,TCH0040,On hold,9,0,,69,ella.wright5@example.com,2024,0,9,
+STU0623,C-2021-655,350.0,Portuguese,,On hold,8,6,2018-01-05,16,,2021,0,8,2018
+STU0624,C-2021-216,440.0,German,TCH0057,Enrolled,12,1,2025-04-07,33,,2021,0,12,2025
+STU0625,C-2022-735,350.0,Portuguese,TCH0013,Pending,8,5,2025-03-06,,grace.moore65@example.com,2022,0,8,2025
+STU0626,C-2024-712,360.0,Italian,TCH0007,Pending,9,0,2024-01-18,18,ella.young83@example.com,2024,0,9,2024
+STU0627,C-2022-590,410.0,Dutch,TCH0015,Enrolled,10,10,2023-08-31,65,lucas.hall92@example.com,2022,0,10,2023
+,,350.0,Portuguese,,On hold,8,4,2021-08-25,67,ethan.king42@example.com,,0,8,2021
+STU0629,C-2019-403,360.0,Italian,,Enrolled,9,9,2022-03-10,57,emma.smith72@example.com,2019,0,9,2022
+STU0630,C-2021-719,440.0,German,TCH0007,On hold,12,,2018-11-28,32,daniel.lewis77@example.com,2021,0,12,2018
+STU0631,C-2017-736,390.0,Spanish,TCH0059,On hold,10,3,2024-01-31,29,noah.thomas92@example.com,2017,0,10,2024
+STU0632,,520.0,Japanese,,Pending,14,3,,59,chloe.jackson94@example.com,,0,14,
+STU0634,C-2019-893,520.0,English,,On hold,,3,2017-10-27,43,grace.clark91@example.com,2019,0,12,2017
+STU0635,C-2025-061,390.0,Spanish,,Enrolled,10,9,2019-11-05,58,henry.harris78@example.com,2025,0,10,2019
+STU0636,C-2021-405,350.0,Portuguese,TCH0017,On hold,8,8,2022-04-02,26,sophie.martin34@example.com,2021,0,8,2022
+STU0637,C-2018-325,420.0,French,,On hold,11,7,2021-01-16,18,,2018,0,11,2021
+,C-2021-925,350.0,Portuguese,TCH0079,Enrolled,8,5,2018-09-12,26,charlotte.white56@example.com,2021,0,8,2018
+STU0639,C-2017-194,520.0,Japanese,,On hold,14,2,2018-04-21,32,ethan.brown61@example.com,2017,0,14,2018
+STU0640,C-2017-453,520.0,Japanese,TCH0072,Pending,12,11,2020-12-02,70,emily.walker15@example.com,2017,0,14,2020
+,C-2020-890,,Spanish,TCH0024,Pending,,10,2023-07-19,52,arthur.hall35@example.com,2020,0,10,2023
+STU0643,C-2023-383,390.0,Dutch,TCH0042,Enrolled,10,10,2024-01-18,69,emma.taylor59@example.com,2023,0,10,2024
+STU0644,C-2026-674,410.0,Dutch,TCH0043,Pending,10,,2017-07-19,18,ella.wright58@example.com,2026,0,10,2017
+STU0645,C-2022-818,410.0,Dutch,TCH0010,Enrolled,10,3,2017-03-26,27,olivia.clark33@example.com,2022,0,10,2017
+STU0646,C-2019-398,440.0,German,,,12,6,,67,noah.jackson63@example.com,2019,0,12,
+STU0647,,,French,,Pending,11,,2021-09-29,46,henry.young50@example.com,,0,11,2021
+STU0648,C-2023-831,390.0,Spanish,TCH0079,Enrolled,10,8,2024-08-02,18,william.lewis12@example.com,2023,0,10,2024
+STU0649,C-2019-508,440.0,German,TCH0038,On hold,12,3,2020-05-15,35,william.taylor62@example.com,2019,0,12,2020
+STU0650,,440.0,German,TCH0073,Enrolled,12,1,2021-08-19,48,jack.taylor6@example.com,,0,12,2021
+STU0653,,520.0,,TCH0044,Enrolled,14,9,2024-07-21,63,sophia.martin11@example.com,,0,,2024
+STU0654,C-2023-548,390.0,Spanish,TCH0001,On hold,10,7,2021-07-18,57,noah.smith22@example.com,2023,0,10,2021
+STU0655,C-2021-634,,Japanese,TCH0051,Enrolled,14,3,2017-03-07,16,olivia.johnson18@example.com,2021,0,14,2017
+STU0656,C-2017-215,440.0,German,,Pending,12,12,2023-08-12,69,ella.thomas56@example.com,2017,4,12,2023
+,C-2026-249,520.0,Japanese,TCH0038,Enrolled,14,3,2023-08-12,22,liam.white2@example.com,2026,0,14,2023
+STU0659,C-2026-611,520.0,Japanese,TCH0005,On hold,14,11,2026-02-28,53,isla.walker66@example.com,2026,0,14,2026
+STU0661,C-2018-507,520.0,Japanese,TCH0058,On hold,12,3,2021-11-30,62,,2018,0,14,2021
+STU0662,C-2025-225,,Japanese,TCH0078,Pending,12,6,2024-07-20,61,,2025,0,14,2024
+STU0664,C-2018-813,520.0,English,TCH0064,On hold,14,0,2021-01-02,19,,2018,0,12,2021
+STU0665,C-2019-848,420.0,German,TCH0009,Pending,11,,2022-06-16,30,william.wilson80@example.com,2019,0,12,2022
+,C-2022-804,410.0,,TCH0006,On hold,10,3,2018-03-03,71,freya.johnson89@example.com,2022,0,,2018
+STU0668,C-2019-646,390.0,Spanish,TCH0027,Enrolled,10,8,2018-02-11,44,,2019,0,10,2018
+STU0669,C-2022-343,420.0,French,,Enrolled,11,0,2026-01-28,65,emily.lewis99@example.com,2022,0,11,2026
+STU0814,C-2022-770,420.0,French,TCH0024,Pending,,6,2023-08-12,54,thomas.allen71@example.com,2022,0,11,2023
+,C-2020-142,350.0,Portuguese,TCH0053,Enrolled,8,5,2018-08-20,66,,2020,0,8,2018
+STU0672,C-2025-072,,English,TCH0044,On hold,12,6,2024-03-12,19,isla.martin56@example.com,2025,0,12,2024
+STU0675,C-2020-903,350.0,Portuguese,TCH0011,Enrolled,8,2,2020-03-08,62,,2020,0,8,2020
+STU0677,C-2021-744,440.0,German,,On hold,12,10,2018-05-23,,arthur.brown48@example.com,2021,0,12,2018
+STU0679,C-2022-307,440.0,,TCH0074,On hold,12,3,2022-10-17,63,grace.clark67@example.com,2022,0,,2022
+STU0680,C-2022-466,,German,TCH0019,Pending,12,0,2022-05-05,21,,2022,0,12,2022
+,,440.0,German,TCH0009,On hold,12,7,2020-09-18,60,sophia.walker89@example.com,,0,12,2020
+STU0682,C-2024-706,350.0,Dutch,TCH0054,On hold,,7,2022-10-04,47,ava.hall17@example.com,2024,0,10,2022
+STU0683,C-2020-467,390.0,Spanish,,Enrolled,10,6,2021-02-22,54,jack.harris16@example.com,2020,0,10,2021
+STU0685,C-2026-432,420.0,French,TCH0040,On hold,11,3,2020-11-29,47,sophia.martin95@example.com,2026,0,11,2020
+STU0686,C-2017-428,390.0,Spanish,TCH0074,Enrolled,10,6,2025-01-28,66,sophie.young44@example.com,2017,0,10,2025
+STU0687,C-2019-517,420.0,French,TCH0058,Enrolled,11,9,2021-05-06,67,ava.white12@example.com,2019,0,11,2021
+STU0688,C-2023-348,440.0,German,,On hold,12,0,2025-12-06,61,ella.taylor22@example.com,2023,0,12,2025
+STU0689,C-2025-661,410.0,Dutch,TCH0083,Pending,10,0,2019-02-15,52,sophia.wright70@example.com,2025,0,10,2019
+STU0690,C-2025-919,520.0,German,TCH0016,Enrolled,14,12,2017-12-13,31,emma.moore27@example.com,2025,0,12,2017
+STU0691,C-2023-604,360.0,German,,On hold,9,,2021-04-14,42,,2023,0,12,2021
+STU0692,C-2018-118,410.0,Dutch,TCH0070,Pending,10,,2021-07-27,32,oliver.johnson24@example.com,2018,0,10,2021
+STU0693,,420.0,French,TCH0024,Pending,11,1,2021-08-18,40,grace.brown39@example.com,,0,11,2021
+STU0694,C-2021-385,360.0,Italian,,Enrolled,,7,2022-08-29,31,lucas.wright76@example.com,2021,0,9,2022
+STU0696,C-2021-568,450.0,English,TCH0032,Pending,12,1,2019-04-14,44,oliver.king53@example.com,2021,0,12,2019
+STU0697,C-2022-554,,French,TCH0032,Enrolled,11,0,2023-12-18,18,george.allen58@example.com,2022,0,11,2023
+STU0698,C-2019-001,410.0,Dutch,TCH0062,Pending,10,5,2026-06-06,40,daniel.moore88@example.com,2019,0,10,2026
+STU0699,C-2017-166,410.0,Dutch,TCH0039,,10,8,2019-05-14,62,isla.wilson18@example.com,2017,0,10,2019
+STU0701,C-2017-624,420.0,,TCH0001,On hold,11,11,2021-05-28,51,leo.martin53@example.com,2017,0,,2021
+STU0703,,450.0,English,TCH0025,On hold,12,,2024-12-14,18,emma.thomas96@example.com,,0,12,2024
+STU0704,C-2020-093,360.0,Italian,,Pending,,7,2017-01-30,33,henry.harris5@example.com,2020,0,9,2017
+STU0705,C-2023-114,440.0,German,TCH0073,On hold,12,12,2024-08-27,58,ethan.allen25@example.com,2023,1,12,2024
+STU0706,C-2018-603,420.0,French,TCH0009,Pending,11,8,2023-12-08,72,mia.king30@example.com,2018,0,11,2023
+STU0708,C-2023-281,350.0,Portuguese,TCH0067,Enrolled,8,0,2020-02-13,64,henry.harris67@example.com,2023,0,8,2020
+STU0709,C-2025-460,350.0,Portuguese,TCH0001,On hold,8,0,2021-10-02,72,sophia.white11@example.com,2025,0,8,2021
+STU0710,C-2020-202,390.0,Spanish,TCH0043,Pending,,6,2025-12-10,46,olivia.wilson4@example.com,2020,0,10,2025
+STU0712,C-2018-641,520.0,Japanese,,Enrolled,14,14,2018-06-07,40,olivia.brown5@example.com,2018,3,14,2018
+STU0713,,450.0,English,TCH0079,On hold,12,,2026-07-14,19,olivia.wilson87@example.com,,0,12,2026
+STU0714,C-2023-099,350.0,Portuguese,TCH0030,Pending,,,2018-02-19,66,emily.clark60@example.com,2023,0,8,2018
+STU0715,C-2017-465,360.0,Italian,,Enrolled,9,1,2026-06-06,54,,2017,0,9,2026
+,C-2026-130,440.0,English,TCH0046,Enrolled,12,3,2017-06-30,27,henry.wright57@example.com,2026,0,12,2017
+STU0717,C-2019-320,450.0,English,,Enrolled,12,2,2024-01-31,65,oliver.king70@example.com,2019,0,12,2024
+STU0720,,360.0,Italian,TCH0043,On hold,9,3,2019-07-03,47,noah.young6@example.com,,0,9,2019
+,C-2024-639,440.0,German,TCH0031,Pending,,3,2026-04-07,40,arthur.white95@example.com,2024,0,12,2026
+STU0722,C-2022-011,,English,TCH0046,On hold,12,7,2023-07-27,34,jack.wilson19@example.com,2022,0,12,2023
+,C-2017-031,360.0,Italian,,Enrolled,9,2,2023-03-22,62,ethan.thomas34@example.com,2017,0,9,2023
+STU0724,,440.0,German,TCH0023,Enrolled,12,10,2024-05-06,69,george.wilson3@example.com,,0,12,2024
+STU0725,C-2022-216,390.0,Spanish,,Enrolled,10,8,2024-12-22,26,james.harris85@example.com,2022,0,10,2024
+,C-2017-782,440.0,German,TCH0069,Enrolled,12,0,2018-06-02,31,thomas.johnson42@example.com,2017,0,12,2018
+STU0728,C-2020-745,,Japanese,TCH0061,On hold,14,14,,64,ethan.hall50@example.com,2020,0,14,
+STU0729,C-2019-330,,Japanese,TCH0068,On hold,14,9,2025-11-13,33,grace.walker61@example.com,2019,0,14,2025
+,C-2020-225,450.0,English,,,12,6,2026-06-13,43,isla.anderson40@example.com,2020,0,12,2026
+STU0734,,440.0,German,TCH0047,Enrolled,12,12,2020-05-24,28,jack.anderson43@example.com,,3,12,2020
+STU0735,C-2020-723,410.0,Dutch,TCH0070,Enrolled,10,5,2026-03-21,68,emma.jackson37@example.com,2020,0,10,2026
+STU0737,C-2024-349,520.0,Japanese,,Enrolled,14,7,2021-03-15,44,william.lewis27@example.com,2024,0,14,2021
+STU0738,C-2026-895,420.0,French,TCH0040,Pending,11,,2025-06-10,30,,2026,0,11,2025
+STU0739,C-2025-307,350.0,Portuguese,TCH0076,On hold,8,5,2025-12-18,25,,2025,0,8,2025
+,C-2023-210,350.0,Portuguese,TCH0009,Enrolled,8,7,2018-12-04,37,sophia.walker14@example.com,2023,0,8,2018
+,C-2025-182,,Spanish,TCH0078,Enrolled,10,6,,20,emma.martin26@example.com,2025,0,10,
+STU0742,,410.0,Dutch,TCH0008,Pending,10,6,2018-03-30,36,charlotte.smith22@example.com,,0,10,2018
+STU0743,C-2025-429,420.0,English,TCH0009,Enrolled,11,3,2026-03-05,71,freya.anderson17@example.com,2025,0,12,2026
+STU0744,C-2019-619,520.0,Japanese,,Enrolled,14,0,2017-09-20,,charlotte.young36@example.com,2019,0,14,2017
+,C-2026-827,350.0,Portuguese,TCH0068,Enrolled,8,7,2025-04-08,45,george.king63@example.com,2026,0,8,2025
+STU0746,C-2021-662,390.0,Spanish,TCH0045,Pending,,3,2025-03-23,42,isla.wright23@example.com,2021,0,10,2025
+STU0747,C-2024-394,350.0,Portuguese,,On hold,8,3,2023-01-12,72,isla.brown31@example.com,2024,0,8,2023
+,,,Dutch,TCH0064,Pending,10,1,2025-08-06,39,lily.allen16@example.com,,0,10,2025
+STU0750,C-2020-407,350.0,Portuguese,TCH0002,Enrolled,,7,2017-10-07,,noah.johnson42@example.com,2020,0,8,2017
+,C-2025-673,390.0,Spanish,,Enrolled,10,0,2018-12-27,26,henry.moore21@example.com,2025,0,10,2018
+STU0752,C-2018-548,410.0,Dutch,TCH0022,Enrolled,10,3,2018-12-30,33,leo.smith87@example.com,2018,0,10,2018
+,C-2017-915,440.0,German,TCH0057,Enrolled,12,11,2024-09-28,,chloe.hall83@example.com,2017,0,12,2024
+STU0754,C-2024-054,410.0,,TCH0007,Enrolled,10,3,2017-03-07,18,lily.anderson32@example.com,2024,0,,2017
+STU0755,C-2017-015,350.0,Portuguese,TCH0025,Enrolled,8,2,2022-10-01,26,lucas.wilson86@example.com,2017,0,8,2022
+,C-2022-331,390.0,Spanish,,Pending,10,1,2018-03-10,43,george.allen51@example.com,2022,0,10,2018
+,C-2022-178,360.0,French,TCH0052,On hold,9,3,2026-02-21,45,emma.clark28@example.com,2022,0,11,2026
+STU0760,C-2018-344,520.0,Japanese,TCH0078,,14,3,2024-11-26,63,,2018,0,14,2024
+STU0761,C-2020-022,450.0,English,,Enrolled,12,9,2018-07-18,18,arthur.lewis97@example.com,2020,0,12,2018
+,C-2025-056,440.0,German,TCH0029,Enrolled,12,10,2022-07-07,44,charlotte.white24@example.com,2025,0,12,2022
+,C-2024-319,350.0,Portuguese,,Pending,,4,2023-08-12,31,william.martin78@example.com,2024,0,8,2023
+STU0769,C-2021-390,420.0,French,TCH0040,On hold,11,7,2018-07-14,54,oliver.clark72@example.com,2021,0,11,2018
+,C-2020-159,520.0,Japanese,TCH0001,Enrolled,14,14,2021-08-31,62,oscar.hall94@example.com,2020,3,14,2021
+STU0771,C-2022-394,350.0,Portuguese,TCH0040,Enrolled,8,2,2021-11-23,40,william.brown16@example.com,2022,0,8,2021
+STU0772,,410.0,Dutch,TCH0082,Pending,10,10,2022-05-11,40,grace.brown84@example.com,,3,10,2022
+STU0773,C-2022-647,,English,TCH0083,Enrolled,12,2,2023-10-03,,mia.wright59@example.com,2022,0,12,2023
+STU0774,C-2017-120,420.0,French,TCH0083,Pending,,11,2026-04-22,49,isla.king11@example.com,2017,0,11,2026
+STU0775,C-2021-709,350.0,,TCH0065,On hold,8,1,2024-01-31,42,,2021,0,,2024
+STU0777,C-2025-427,350.0,Portuguese,,,8,2,2019-01-16,61,ethan.harris24@example.com,2025,0,8,2019
+STU0779,C-2019-082,390.0,Spanish,TCH0011,,10,0,2022-05-12,37,noah.moore9@example.com,2019,0,10,2022
+STU0780,C-2018-010,,Japanese,TCH0035,Enrolled,14,3,2017-01-30,22,leo.king6@example.com,2018,0,14,2017
+STU0781,C-2026-533,350.0,Portuguese,TCH0063,On hold,8,5,2020-11-06,,,2026,0,8,2020
+STU0782,C-2020-370,360.0,Italian,TCH0049,On hold,9,7,,16,james.white13@example.com,2020,0,9,
+STU0783,C-2017-617,,Japanese,TCH0068,Pending,11,9,2021-08-20,44,grace.thomas48@example.com,2017,0,14,2021
+STU0784,C-2017-654,440.0,German,TCH0012,Pending,12,10,2023-10-22,36,oscar.brown95@example.com,2017,0,12,2023
+,C-2026-200,410.0,French,,Enrolled,,10,,35,,2026,0,11,
+STU0787,C-2024-119,420.0,Dutch,,Enrolled,11,10,2021-11-17,64,lucas.anderson22@example.com,2024,0,10,2021
+,C-2019-335,,English,,On hold,12,10,2018-07-11,46,arthur.moore86@example.com,2019,0,12,2018
+STU0789,C-2018-815,520.0,Japanese,TCH0029,On hold,14,11,2024-03-15,61,ella.white49@example.com,2018,0,14,2024
+STU0790,C-2020-229,350.0,English,TCH0015,Pending,,3,2021-02-15,37,,2020,0,12,2021
+STU0791,C-2022-390,420.0,French,TCH0040,,11,6,2025-08-26,70,,2022,0,11,2025
+STU0793,C-2024-151,520.0,Japanese,TCH0019,On hold,14,11,2026-07-05,48,daniel.white40@example.com,2024,0,14,2026
+STU0796,,520.0,Japanese,TCH0051,On hold,14,14,2023-02-23,60,charlotte.jackson37@example.com,,0,14,2023
+STU0797,C-2018-135,350.0,Portuguese,TCH0075,Pending,8,2,2021-12-15,57,oscar.jackson59@example.com,2018,0,8,2021
+STU0798,,520.0,Japanese,,On hold,14,0,2023-06-16,57,thomas.anderson95@example.com,,0,14,2023
+STU0799,C-2019-386,390.0,Spanish,,Pending,10,0,2024-04-16,27,noah.harris61@example.com,2019,0,10,2024
+STU0800,C-2026-445,,Italian,TCH0081,On hold,9,6,2024-09-18,31,,2026,0,9,2024
+STU0801,C-2023-795,420.0,French,TCH0060,Enrolled,11,1,2018-05-15,16,mia.young48@example.com,2023,0,11,2018
+STU0802,C-2025-231,520.0,Japanese,TCH0076,On hold,12,6,2024-11-18,27,mia.wilson76@example.com,2025,0,14,2024
+STU0803,C-2021-586,350.0,Portuguese,TCH0013,Pending,12,0,2026-03-03,41,olivia.allen24@example.com,2021,0,8,2026
+STU0804,C-2018-532,520.0,Japanese,TCH0027,Pending,14,0,2025-12-23,27,ethan.wright89@example.com,2018,0,14,2025
+STU0805,C-2018-041,360.0,Italian,,Enrolled,9,4,2018-05-26,51,ella.martin12@example.com,2018,0,9,2018
+STU0806,C-2022-558,,Dutch,,Enrolled,10,4,2018-07-27,49,lucas.jackson6@example.com,2022,0,10,2018
+STU0807,,520.0,Japanese,,Enrolled,14,0,2019-02-10,68,grace.wilson85@example.com,,0,14,2019
+STU0811,C-2018-277,440.0,German,TCH0069,On hold,12,,2020-09-28,20,leo.allen53@example.com,2018,0,12,2020
+,C-2019-890,410.0,Dutch,TCH0036,Pending,10,1,2022-11-27,40,noah.clark29@example.com,2019,0,10,2022
+STU0813,C-2026-842,410.0,Dutch,TCH0013,Enrolled,10,10,2017-07-16,51,grace.king37@example.com,2026,5,10,2017
+STU0815,C-2017-704,410.0,Dutch,TCH0085,On hold,10,4,2024-03-03,63,ava.clark73@example.com,2017,0,10,2024
+STU0816,C-2020-695,360.0,Italian,TCH0059,Enrolled,9,4,2022-11-03,48,,2020,0,9,2022
+STU0817,C-2021-651,440.0,German,TCH0040,On hold,12,1,2019-09-11,56,lily.white12@example.com,2021,0,12,2019
+,C-2019-590,390.0,Spanish,TCH0011,On hold,10,10,,43,jack.walker2@example.com,2019,0,10,
+STU0819,C-2024-528,520.0,,TCH0052,On hold,14,11,2022-12-29,16,daniel.anderson96@example.com,2024,0,,2022
+STU0820,C-2020-757,360.0,Italian,TCH0078,Enrolled,9,9,2018-07-01,27,ethan.hall29@example.com,2020,4,9,2018
+STU0821,C-2017-433,,Italian,TCH0049,Enrolled,9,3,2025-08-06,59,james.wilson44@example.com,2017,0,9,2025
+STU0822,C-2021-307,390.0,Spanish,,Pending,10,9,,56,sophia.smith95@example.com,2021,0,10,
+STU0823,C-2024-914,450.0,Japanese,TCH0008,Enrolled,12,4,2017-01-22,37,emma.wright59@example.com,2024,0,14,2017
+STU0824,C-2019-412,360.0,Italian,TCH0002,Pending,9,8,2021-08-10,21,william.walker26@example.com,2019,0,9,2021
+STU0825,C-2024-008,,Spanish,,Enrolled,12,4,2019-01-17,39,lucas.walker51@example.com,2024,0,10,2019
+,C-2017-632,350.0,Portuguese,TCH0012,On hold,,3,2021-10-12,35,isla.lewis68@example.com,2017,0,8,2021
+STU0833,C-2017-523,520.0,Japanese,TCH0083,On hold,14,4,2021-09-09,39,oliver.wilson35@example.com,2017,0,14,2021
+STU0834,C-2022-917,,German,TCH0024,On hold,12,5,2022-04-18,63,,2022,0,12,2022
+STU0835,,410.0,Dutch,TCH0024,On hold,,1,2017-02-25,35,henry.harris43@example.com,,0,10,2017
+STU0836,C-2022-370,420.0,Japanese,TCH0076,Enrolled,11,6,2018-06-19,53,lucas.moore27@example.com,2022,0,14,2018
+,C-2017-601,390.0,Spanish,TCH0025,On hold,10,9,2025-02-19,50,george.wilson10@example.com,2017,0,10,2025
+STU0838,C-2020-547,520.0,Japanese,TCH0012,On hold,14,4,2021-02-08,61,sophia.lewis71@example.com,2020,0,14,2021
+STU0839,C-2018-933,520.0,French,TCH0009,Pending,14,0,2020-01-28,66,william.hall65@example.com,2018,0,11,2020
+STU0840,C-2021-047,420.0,French,TCH0025,Enrolled,11,11,2022-09-18,20,,2021,1,11,2022
+STU0841,C-2025-799,350.0,Portuguese,TCH0052,On hold,8,3,2017-02-06,26,sophia.martin1@example.com,2025,0,8,2017
+STU0842,C-2025-725,520.0,Japanese,,Enrolled,14,2,2022-12-26,23,oliver.moore71@example.com,2025,0,14,2022
+STU0843,C-2021-041,440.0,,TCH0036,Enrolled,12,3,2017-01-06,31,mia.brown83@example.com,2021,0,,2017
+STU0845,C-2022-225,450.0,English,TCH0023,Enrolled,12,12,,71,emma.allen85@example.com,2022,0,12,
+,C-2021-891,350.0,Portuguese,,Enrolled,8,8,2019-08-08,53,amelia.moore27@example.com,2021,5,8,2019
+STU0847,C-2022-152,350.0,Portuguese,TCH0012,Pending,8,2,2022-07-03,68,ethan.young24@example.com,2022,0,8,2022
+STU0848,C-2021-022,420.0,French,TCH0021,Pending,11,3,2017-10-23,54,chloe.clark88@example.com,2021,0,11,2017
+STU0849,C-2020-466,350.0,Portuguese,,Enrolled,8,6,2018-03-27,22,arthur.smith78@example.com,2020,0,8,2018
+,C-2017-136,450.0,English,,On hold,12,,2025-04-04,66,ava.wright2@example.com,2017,0,12,2025
+,C-2025-127,,Dutch,TCH0006,Enrolled,,6,2019-07-08,48,jack.jackson14@example.com,2025,0,10,2019
+STU0853,C-2020-438,450.0,English,TCH0019,,12,10,2025-01-07,72,ella.jackson29@example.com,2020,0,12,2025
+STU0854,C-2024-174,390.0,Spanish,TCH0029,On hold,,5,2017-12-14,55,oliver.harris10@example.com,2024,0,10,2017
+STU0855,C-2026-155,450.0,German,TCH0055,On hold,,,2020-05-20,43,daniel.martin87@example.com,2026,0,12,2020
+STU0856,C-2022-897,,English,TCH0035,Enrolled,,1,2018-09-01,67,leo.harris34@example.com,2022,0,12,2018
+STU0858,C-2019-187,360.0,Italian,TCH0046,Enrolled,9,6,2024-02-21,18,,2019,0,9,2024
+,C-2019-822,360.0,Italian,TCH0050,Pending,9,7,2023-08-12,50,jack.walker69@example.com,2019,0,9,2023
+STU0860,C-2023-086,440.0,German,,Enrolled,12,0,2017-03-12,39,grace.taylor31@example.com,2023,0,12,2017
+STU0861,C-2025-486,360.0,German,TCH0015,Enrolled,9,2,2018-08-14,70,,2025,0,12,2018
+,C-2020-216,350.0,Portuguese,TCH0008,On hold,8,0,2017-08-10,62,noah.johnson49@example.com,2020,0,8,2017
+,C-2026-076,390.0,English,TCH0077,Enrolled,10,1,2017-02-21,25,emma.johnson47@example.com,2026,0,12,2017
+STU0864,C-2019-784,,German,TCH0061,On hold,8,7,2020-10-13,35,arthur.hall90@example.com,2019,0,12,2020
+STU0865,C-2017-294,520.0,Japanese,TCH0020,Pending,14,2,2017-02-14,64,freya.brown78@example.com,2017,0,14,2017
+STU0867,C-2025-387,,Spanish,TCH0028,Pending,10,2,,41,daniel.brown29@example.com,2025,0,10,
+STU0868,C-2024-489,390.0,Spanish,TCH0084,Enrolled,10,5,2020-01-11,19,chloe.clark22@example.com,2024,0,10,2020
+,C-2021-193,,English,TCH0082,Pending,12,9,2025-11-11,52,lucas.moore11@example.com,2021,0,12,2025
+STU0871,C-2017-050,520.0,Japanese,TCH0012,Pending,14,6,2020-07-12,34,emma.harris97@example.com,2017,0,14,2020
+STU0873,C-2024-601,,Portuguese,,Pending,8,1,2026-01-21,72,ava.young11@example.com,2024,0,8,2026
+STU0875,C-2020-214,350.0,,TCH0020,Enrolled,8,4,2025-12-11,65,noah.smith19@example.com,2020,0,,2025
+STU0876,C-2024-097,390.0,Spanish,TCH0041,On hold,10,4,2020-12-18,20,george.jackson21@example.com,2024,0,10,2020
+STU0877,C-2018-184,390.0,Spanish,,Enrolled,10,1,2017-06-12,20,mia.young84@example.com,2018,0,10,2017
+STU0879,C-2025-461,350.0,German,TCH0006,Pending,8,8,2023-08-12,68,arthur.thomas90@example.com,2025,0,12,2023
+STU0880,,390.0,Spanish,TCH0073,On hold,12,7,2022-03-24,40,oscar.taylor29@example.com,,0,10,2022
+STU0881,C-2025-922,520.0,English,TCH0014,Enrolled,14,6,2020-09-08,65,ethan.wilson51@example.com,2025,0,12,2020
+STU0882,C-2022-351,390.0,Spanish,TCH0028,Pending,10,8,2018-08-20,18,noah.moore59@example.com,2022,0,10,2018
+STU0883,,440.0,German,TCH0077,Pending,,3,,46,liam.harris56@example.com,,0,12,
+STU0884,C-2021-259,350.0,Portuguese,TCH0011,Enrolled,12,4,2021-09-16,21,olivia.moore52@example.com,2021,0,8,2021
+STU0885,,440.0,English,TCH0012,Enrolled,12,5,2022-05-02,28,amelia.jackson22@example.com,,0,12,2022
+,C-2017-224,390.0,Spanish,TCH0054,On hold,10,3,2023-12-08,38,,2017,0,10,2023
+STU0889,C-2022-834,450.0,English,TCH0003,Enrolled,12,1,2024-04-11,68,freya.jackson65@example.com,2022,0,12,2024
+STU0891,C-2025-447,420.0,French,TCH0037,Enrolled,11,1,2026-05-23,,,2025,0,11,2026
+STU0892,C-2018-666,,Spanish,TCH0079,Enrolled,10,9,2024-02-08,,,2018,0,10,2024
+STU0893,C-2025-596,520.0,Japanese,TCH0038,Pending,14,,2022-04-08,,sophia.thomas59@example.com,2025,0,14,2022
+STU0894,C-2022-813,390.0,Spanish,TCH0053,On hold,,4,2019-12-20,48,,2022,0,10,2019
+STU0896,C-2022-175,360.0,Italian,TCH0031,Enrolled,9,0,2018-06-12,41,sophia.wright83@example.com,2022,0,9,2018
+STU0898,C-2021-858,350.0,Portuguese,,Pending,8,0,2017-04-24,43,olivia.taylor4@example.com,2021,0,8,2017
+STU0900,C-2023-789,440.0,German,TCH0085,Enrolled,12,0,2018-02-28,56,mia.taylor19@example.com,2023,0,12,2018
+STU0901,C-2024-950,390.0,Spanish,TCH0014,Enrolled,10,1,2021-01-20,,oliver.moore24@example.com,2024,0,10,2021
+STU0902,,440.0,German,TCH0003,Enrolled,12,3,2020-07-08,20,olivia.walker81@example.com,,0,12,2020
+,C-2019-185,520.0,Japanese,TCH0002,Enrolled,14,13,2020-11-05,54,leo.king81@example.com,2019,0,14,2020
+STU0904,,360.0,Italian,TCH0021,Enrolled,,0,2022-10-23,54,george.wilson25@example.com,,0,9,2022
+STU0905,,420.0,French,,On hold,12,1,,30,emma.white18@example.com,,0,11,
+STU0907,C-2021-403,440.0,German,TCH0075,Enrolled,12,6,2023-09-09,47,ethan.anderson93@example.com,2021,0,12,2023
+STU0908,C-2022-638,410.0,Dutch,TCH0078,,10,5,2018-11-17,,william.anderson73@example.com,2022,0,10,2018
+STU0909,C-2025-260,450.0,English,TCH0038,Enrolled,12,12,2025-11-14,,isla.smith15@example.com,2025,0,12,2025
+STU0911,C-2020-477,360.0,Italian,TCH0030,Enrolled,12,,2023-04-17,,isla.jackson78@example.com,2020,0,9,2023
+STU0912,C-2026-905,410.0,Dutch,TCH0074,Pending,,5,2017-07-23,68,leo.lewis41@example.com,2026,0,10,2017
+STU0913,C-2024-048,520.0,Japanese,TCH0054,Enrolled,14,,2019-08-27,54,noah.young22@example.com,2024,0,14,2019
+STU0914,C-2021-019,450.0,English,TCH0060,On hold,12,8,2024-03-26,,ava.clark5@example.com,2021,0,12,2024
+STU0915,C-2018-482,450.0,English,,Pending,,,2025-09-08,,mia.white97@example.com,2018,0,12,2025
+STU0917,C-2020-049,450.0,English,TCH0018,On hold,12,12,2026-02-10,26,amelia.lewis29@example.com,2020,4,12,2026
+STU0918,C-2025-006,360.0,Italian,TCH0034,On hold,9,4,2023-11-15,20,noah.brown39@example.com,2025,0,9,2023
+STU0919,C-2021-716,350.0,,TCH0018,,8,2,2021-08-20,71,noah.johnson41@example.com,2021,0,,2021
+STU0923,C-2024-672,,Dutch,TCH0065,Enrolled,10,6,2023-12-17,39,george.johnson29@example.com,2024,0,10,2023
+STU0925,C-2020-017,390.0,Spanish,TCH0024,On hold,10,7,2018-04-30,49,emma.walker85@example.com,2020,0,10,2018
+STU0927,C-2017-665,390.0,Spanish,,Pending,10,3,2023-10-25,27,oliver.anderson52@example.com,2017,0,10,2023
+,C-2021-508,440.0,German,,Enrolled,12,4,2024-01-31,54,james.jackson91@example.com,2021,0,12,2024
+,C-2021-874,520.0,Japanese,TCH0022,Pending,14,5,,27,leo.taylor22@example.com,2021,0,14,
+STU0932,C-2023-343,520.0,Japanese,TCH0023,On hold,14,,2020-12-13,59,freya.taylor22@example.com,2023,0,14,2020
+STU0933,C-2026-002,520.0,Japanese,TCH0032,Enrolled,,,2019-07-25,18,noah.brown3@example.com,2026,0,14,2019
+STU0935,C-2021-374,520.0,English,TCH0002,Enrolled,14,10,2018-04-07,65,oliver.white67@example.com,2021,0,12,2018
+STU0936,C-2025-746,410.0,Dutch,TCH0012,Enrolled,10,,2019-09-28,,oscar.thomas85@example.com,2025,0,10,2019
+STU0937,,350.0,Portuguese,TCH0025,Pending,8,8,2018-12-18,72,ella.wilson36@example.com,,0,8,2018
+STU0938,C-2022-910,410.0,Dutch,,On hold,10,10,2020-11-07,18,mia.jackson25@example.com,2022,3,10,2020
+STU0939,C-2023-815,390.0,Spanish,TCH0073,Enrolled,10,10,2024-08-21,47,oliver.wilson2@example.com,2023,0,10,2024
+STU0940,C-2025-297,420.0,French,TCH0039,Pending,11,7,2020-03-05,16,oliver.taylor38@example.com,2025,0,11,2020
+STU0941,,390.0,Spanish,TCH0001,On hold,10,2,2025-10-22,32,james.smith7@example.com,,0,10,2025
+STU0942,C-2018-731,,French,,Enrolled,11,3,2020-12-23,34,,2018,0,11,2020
+,C-2023-433,440.0,German,TCH0013,Enrolled,12,2,2024-08-12,35,george.jackson77@example.com,2023,0,12,2024
+,C-2026-143,360.0,Dutch,TCH0033,On hold,9,4,2023-05-11,35,william.allen26@example.com,2026,0,10,2023
+STU0945,,520.0,Japanese,TCH0056,On hold,,,2024-12-28,60,ava.hall57@example.com,,0,14,2024
+STU0946,C-2024-363,360.0,Italian,TCH0060,Enrolled,12,0,2025-06-23,51,william.young4@example.com,2024,0,9,2025
+STU0947,C-2026-929,,French,TCH0032,Enrolled,11,4,2026-06-24,52,ava.wright70@example.com,2026,0,11,2026
+STU0948,C-2019-413,350.0,Portuguese,TCH0060,On hold,8,4,2023-09-01,19,,2019,0,8,2023
+STU0949,C-2021-580,390.0,Spanish,TCH0043,Pending,10,0,2018-08-14,48,noah.king87@example.com,2021,0,10,2018
+STU0950,C-2019-229,520.0,Japanese,TCH0039,Enrolled,14,11,2017-10-03,,,2019,0,14,2017
+STU0952,C-2018-308,450.0,English,TCH0062,Enrolled,12,9,2024-05-19,32,chloe.thomas70@example.com,2018,0,12,2024
+,C-2023-150,390.0,,TCH0024,Enrolled,10,,2022-05-22,48,chloe.thomas22@example.com,2023,0,,2022
+STU0954,C-2021-684,410.0,Dutch,TCH0076,Pending,10,1,2026-02-15,40,james.moore51@example.com,2021,0,10,2026
+STU0955,C-2019-029,350.0,Portuguese,TCH0059,On hold,8,4,2024-04-18,53,sophie.clark2@example.com,2019,0,8,2024
+,C-2017-930,520.0,French,TCH0012,Pending,14,2,2022-08-24,16,freya.young36@example.com,2017,0,11,2022
+STU0957,C-2022-925,440.0,German,,On hold,12,11,2022-02-26,57,ethan.johnson46@example.com,2022,0,12,2022
+STU0958,C-2021-804,420.0,French,,Pending,11,9,2024-12-12,46,george.walker49@example.com,2021,0,11,2024
+STU0959,C-2019-715,410.0,Dutch,TCH0076,Enrolled,10,0,2025-03-21,20,sophie.wright52@example.com,2019,0,10,2025
+STU0960,C-2020-099,420.0,French,TCH0012,Enrolled,11,11,2018-12-14,67,amelia.thomas99@example.com,2020,5,11,2018
+STU0961,C-2023-945,350.0,,TCH0008,Pending,8,7,2024-01-30,20,noah.brown96@example.com,2023,0,,2024
+STU0962,C-2019-329,450.0,English,,Enrolled,12,3,2021-11-28,28,ava.king72@example.com,2019,0,12,2021
+STU0964,C-2017-369,420.0,French,TCH0073,Enrolled,11,,2019-02-18,62,,2017,0,11,2019
+STU0965,C-2026-848,440.0,German,TCH0065,Enrolled,12,2,2021-10-18,18,james.wright72@example.com,2026,0,12,2021
+STU0966,C-2018-583,350.0,English,TCH0017,On hold,8,0,,30,noah.wilson64@example.com,2018,0,12,
+STU0967,,450.0,English,TCH0033,,12,2,2022-12-29,71,grace.harris9@example.com,,0,12,2022
+STU0969,C-2021-206,350.0,Portuguese,TCH0008,Enrolled,,0,2017-10-26,37,,2021,0,8,2017
+,C-2026-678,410.0,Dutch,TCH0055,Pending,10,4,2017-09-02,25,jack.thomas83@example.com,2026,0,10,2017
+STU0973,C-2025-142,350.0,Portuguese,TCH0057,Enrolled,8,8,2017-08-26,18,freya.wright48@example.com,2025,4,8,2017
+STU0975,C-2017-079,440.0,German,TCH0017,,12,,2019-09-28,,ethan.jackson6@example.com,2017,0,12,2019
+STU0976,C-2019-621,410.0,Dutch,TCH0062,On hold,12,8,2024-11-28,32,,2019,0,10,2024
+STU0977,C-2020-455,,Italian,TCH0047,Pending,9,5,2018-03-04,18,oscar.thomas68@example.com,2020,0,9,2018
+STU0978,C-2022-923,,English,,On hold,12,8,2025-04-27,24,mia.taylor27@example.com,2022,0,12,2025
+STU0980,C-2021-285,450.0,English,TCH0039,On hold,12,7,2021-04-17,40,liam.moore79@example.com,2021,0,12,2021
+,C-2024-046,350.0,Portuguese,TCH0027,Pending,8,4,2025-07-23,,ethan.lewis69@example.com,2024,0,8,2025
+STU0982,C-2017-932,,Italian,,Enrolled,9,9,2021-10-18,62,lily.smith44@example.com,2017,0,9,2021
+STU0983,C-2018-567,450.0,English,,On hold,12,12,2024-01-31,52,,2018,0,12,2024
+,C-2024-764,350.0,Portuguese,TCH0017,On hold,8,8,2023-05-29,31,mia.moore11@example.com,2024,0,8,2023
+STU0985,C-2017-631,350.0,Portuguese,TCH0047,On hold,,0,2023-05-18,67,,2017,0,8,2023
+STU0987,C-2023-060,440.0,German,TCH0036,On hold,12,12,,32,olivia.young24@example.com,2023,0,12,
+,C-2020-646,420.0,French,TCH0019,Enrolled,11,2,,18,lucas.wilson84@example.com,2020,0,11,
+,,,Italian,TCH0008,Pending,9,,2017-07-03,70,mia.smith87@example.com,,0,9,2017
+STU0990,C-2022-112,440.0,Dutch,TCH0065,Pending,12,3,2021-03-02,,noah.hall10@example.com,2022,0,10,2021
+STU0991,C-2018-658,350.0,Portuguese,TCH0037,Enrolled,8,5,2024-04-24,66,emma.white78@example.com,2018,0,8,2024
+STU0992,C-2024-302,360.0,Italian,TCH0021,,12,3,2019-05-17,53,liam.jackson20@example.com,2024,0,9,2019
+STU0993,C-2025-733,,Italian,TCH0028,Enrolled,9,9,2024-04-13,58,,2025,5,9,2024
+STU0994,C-2018-230,390.0,Spanish,TCH0069,Pending,10,7,2021-12-12,54,oscar.hall7@example.com,2018,0,10,2021
+STU0996,C-2023-371,520.0,Japanese,TCH0046,Enrolled,14,,2025-10-26,46,george.harris84@example.com,2023,0,14,2025
+STU0997,C-2020-584,350.0,Portuguese,,On hold,8,,2025-12-04,53,lily.lewis87@example.com,2020,0,8,2025
+STU0998,C-2022-322,410.0,Dutch,TCH0011,Pending,10,7,,52,william.hall19@example.com,2022,0,10,
+STU0999,C-2019-124,450.0,English,TCH0034,Enrolled,12,,2024-09-27,71,arthur.wilson17@example.com,2019,0,12,2024

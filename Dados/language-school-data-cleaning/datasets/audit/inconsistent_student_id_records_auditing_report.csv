@@ -1,0 +1,21 @@
+student_id,class_id,monthly_fee,course,teacher_id,student_status,total_course_modules,completed_modules,enrollment_date,age,student_email,class_year,extra_modules,mode_course_modules,enrollment_year
+STU0123,C-2018-949,450.0,English,TCH0022,Pending,12.0,6.0,2021-04-02,71.0,,2018.0,0,12.0,2021.0
+STU0123,C-2019-153,,English,,Pending,12.0,9.0,2023-12-09,42.0,noah.allen98@example.com,2019.0,0,12.0,2023.0
+STU0123,C-2024-103,,Spanish,TCH0002,Pending,10.0,4.0,2024-10-08,46.0,william.johnson10@example.com,2024.0,0,10.0,2024.0
+STU0123,C-2017-462,420.0,,TCH0044,,11.0,11.0,2022-11-17,31.0,,2017.0,0,,2022.0
+STU0123,C-2017-775,440.0,German,TCH0039,Pending,12.0,6.0,2022-03-02,50.0,leo.allen55@example.com,2017.0,0,12.0,2022.0
+STU0123,C-2023-808,410.0,Dutch,TCH0048,Enrolled,10.0,1.0,,70.0,sophie.jackson60@example.com,2023.0,0,10.0,
+STU0123,C-2024-324,520.0,Japanese,TCH0064,Enrolled,,8.0,2026-04-06,18.0,noah.clark53@example.com,2024.0,0,14.0,2026.0
+STU0123,C-2022-217,440.0,German,TCH0083,Enrolled,12.0,3.0,2019-01-13,55.0,ethan.martin29@example.com,2022.0,0,12.0,2019.0
+STU0123,C-2017-069,520.0,Japanese,TCH0085,Pending,14.0,4.0,2021-04-09,17.0,leo.harris14@example.com,2017.0,0,14.0,2021.0
+STU0123,C-2025-695,,English,,Pending,8.0,5.0,2018-06-24,35.0,,2025.0,0,12.0,2018.0
+STU0123,C-2027-001,350.0,Portuguese,TCH0062,On hold,8.0,0.0,2026-03-05,30.0,isla.taylor70@example.com,2027.0,0,8.0,2026.0
+STU0123,C-2018-816,440.0,German,TCH0061,On hold,12.0,0.0,2019-05-09,18.0,ethan.martin86@example.com,2018.0,0,12.0,2019.0
+STU0123,C-2018-840,390.0,Spanish,,On hold,10.0,3.0,2018-02-09,26.0,grace.anderson37@example.com,2018.0,0,10.0,2018.0
+STU0123,C-2025-630,450.0,English,TCH0072,Enrolled,12.0,10.0,2020-08-16,59.0,emma.lewis83@example.com,2025.0,0,12.0,2020.0
+STU0123,C-2026-378,410.0,Dutch,,On hold,10.0,7.0,2023-01-06,54.0,william.jackson99@example.com,2026.0,0,10.0,2023.0
+STU0123,C-2021-884,440.0,German,TCH0011,Pending,12.0,7.0,2023-12-08,46.0,isla.clark22@example.com,2021.0,0,12.0,2023.0
+STU0123,C-2026-378,,Italian,TCH0011,Enrolled,12.0,4.0,2024-01-08,55.0,,2026.0,0,9.0,2024.0
+STU0123,C-2022-152,420.0,French,TCH0058,Pending,12.0,6.0,2018-01-06,20.0,chloe.taylor15@example.com,2022.0,0,11.0,2018.0
+STU0123,C-2018-080,390.0,Spanish,TCH0078,Enrolled,10.0,8.0,,26.0,emma.thomas37@example.com,2018.0,0,10.0,
+STU0123,C-2023-364,420.0,French,,Pending,11.0,5.0,2018-09-09,25.0,olivia.king79@example.com,2023.0,0,11.0,2018.0

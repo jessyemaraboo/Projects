@@ -1,0 +1,17 @@
+Metric,Result
+Total rows,1000
+Total columns,12
+Duplicate rows,31
+Missing values,545
+Invalid student IDs,861
+Invalid class IDs,82
+Invalid teacher IDs,659
+Invalid courses,657
+Invalid statuses,620
+Invalid ages,90
+Invalid fees,111
+Invalid dates,114
+Invalid module counts,161
+Potential duplicate students,160
+Potential class/course inconsistencies,123
+Potential teacher/course inconsistencies,197
