@@ -1,10 +1,8 @@
 #Criando funções de dependencia
 
 #Bibliotecas
-from modelagem_db import db
-from sqlalchemy.orm import sessionmaker
-from modelagem_db import Usuario
-from sqlalchemy.orm import Session
+from banco_de_dados.modelagem_db import db, Usuario
+from sqlalchemy.orm import sessionmaker, Session
 from fastapi import Depends, HTTPException
 from jose import jwt, JWTError
 from main import SECRET_KEY, ALGORITHM, oauth2_schema

@@ -3,11 +3,11 @@
 #Bibliotecas
 from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy.orm import Session #Abrir sessões
-from dependencias import pegar_sessao, verificar_token
-from schemas import PedidoSchema, ListarPedidosUsuario, ItemSchema
-from modelagem_db import Pedido, Usuario, Itens
+from funcionalidades.dependencias import pegar_sessao, verificar_token
+from funcionalidades.schemas import PedidoSchema, ListarPedidosUsuario, ItemSchema
+from banco_de_dados.modelagem_db import Pedido, Usuario, Itens
 from typing import List
-from enums import StatusPedido
+from funcionalidades.enums import StatusPedido
 #Prefixo de rota
 order_router = APIRouter(prefix="/pedidos", tags = ["pedido"], dependencies=[Depends(verificar_token)])
 

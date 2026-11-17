@@ -21,9 +21,9 @@ oauth2_schema = OAuth2PasswordBearer(tokenUrl="auth/login-form")
 app = FastAPI()
 
 #Agregando rotas
-from auth_route import auth_router
-from order_route import order_router
-from admin import admin_router
+from routes.auth_route import auth_router
+from routes.order_route import order_router
+from routes.admin_route import admin_router
 
 app.include_router(auth_router)
 app.include_router(order_router)

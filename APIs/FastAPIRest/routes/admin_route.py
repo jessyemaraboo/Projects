@@ -3,10 +3,10 @@
 #Bibliotecas
 from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy.orm import Session #Abrir sessões
-from dependencias import pegar_sessao, verificar_token
-from schemas import ItemSchema, AtualizarItem
-from modelagem_db import Pedido, Usuario, Itens
-from enums import StatusPedido
+from funcionalidades.dependencias import pegar_sessao, verificar_token
+from funcionalidades.schemas import ItemSchema, AtualizarItem
+from banco_de_dados.modelagem_db import Pedido, Usuario, Itens
+from funcionalidades.enums import StatusPedido
 
 admin_router = APIRouter(prefix="/admin", tags = ["admin"], dependencies=[Depends(verificar_token)])
 
@@ -48,10 +48,6 @@ async def atualizar_item(item_id: int,
                          dados: AtualizarItem,
                          session: Session = Depends(pegar_sessao),
                          usuario: Usuario =  Depends(verificar_token)):
-  
-  print("ESTOU NA FUNÇÃO")
-  print("ID_DO_ITEM", item_id)
-  print("DADOS RECEBIDOS:", dados)
 
   if not usuario.admin:
       raise HTTPException(status_code=403, detail="Você não tem autorização para realizar esta operação")
@@ -104,3 +100,9 @@ async def finalizar_pedido(pedido_id: int,
     "mensagem": f"Seu pedido de id: {pedido.id}, foi finalizado com sucesso!",
     "pedido": pedido
   }
+  
+
+      
+  
+  
+  

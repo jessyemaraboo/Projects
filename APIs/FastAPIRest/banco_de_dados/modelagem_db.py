@@ -2,9 +2,8 @@
 
 #Bibliotecas
 from sqlalchemy import create_engine, Column, String, Integer, Boolean, Float, ForeignKey, Enum
-from enums import StatusPedido
-from sqlalchemy.orm import declarative_base, Relationship
-from sqlalchemy_utils.types import ChoiceType
+from funcionalidades.enums import StatusPedido
+from sqlalchemy.orm import declarative_base
 
 #Conexão com o banco de dados
 db = create_engine("sqlite:///banco.db")

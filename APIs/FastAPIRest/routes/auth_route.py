@@ -2,14 +2,15 @@
 
 #Bibliotecas
 from fastapi import APIRouter, Depends, HTTPException
-from modelagem_db import Usuario
-from dependencias import pegar_sessao, verificar_token
+from banco_de_dados.modelagem_db import Usuario, Pedido,Itens
+from funcionalidades.dependencias import pegar_sessao, verificar_token
 from main import bcrypt_context, ALGORITHM, ACCESS_TOKEN_EXPIRE_MINUTES, SECRET_KEY
-from schemas import UsuarioSchema, LoginSchema
+from funcionalidades.schemas import UsuarioSchema, LoginSchema
 from sqlalchemy.orm import Session
 from jose import jwt, JWTError
 from datetime import datetime, timedelta, timezone
 from fastapi.security import OAuth2PasswordRequestForm
+from funcionalidades.validadores import validador_email_senha
 
 #Prefixos de rotas
 auth_router = APIRouter(prefix = "/auth", tags = ["auth"])
@@ -43,10 +44,13 @@ async def home():
 @auth_router.post("/criar-conta")
 async def criar_conta(UsuarioSchema:UsuarioSchema, session: Session = Depends(pegar_sessao), usuario: Usuario = Depends(pegar_sessao)):
   usuario = session.query(Usuario).filter(Usuario.email == UsuarioSchema.email).first()
+  
   if usuario:
     #Já cadastrado
     raise HTTPException(status_code=400, detail="E-mail já cadastrado")
+  #Padronização de senhas e emails
   else:
+    validador_email_senha(UsuarioSchema.email, UsuarioSchema.senha)
     senha_criptografada = bcrypt_context.hash(UsuarioSchema.senha)
     novo_usuario = Usuario(UsuarioSchema.nome, UsuarioSchema.email, senha_criptografada, UsuarioSchema.ativo, UsuarioSchema.admin)
     session.add(novo_usuario)
@@ -94,4 +98,43 @@ async def refresh_token(usuario: Usuario = Depends(verificar_token)):
           "token_type": "Bearer"
             }
 
-#OAuth2
+@auth_router.put("/usuario/{usuario_id}/excluir-conta")
+async def excluir_usuario(usuario_id: int, session: Session = Depends(pegar_sessao), usuario: Usuario = Depends(verificar_token)):
+  
+  target_usuario = session.query(Usuario).filter(Usuario.id == usuario_id).first()
+  
+  if not target_usuario:
+    raise HTTPException(status_code=404, detail="Usuário não encontrado")
+  
+  if not usuario.admin and usuario.id != target_usuario.id:
+    raise HTTPException(status_code=403, detail="Você não tem autorização para realizar essa modificação.")
+  
+  #Checando itens
+  
+  itens_pedidos = session.query(Pedido).filter(Pedido.usuario == usuario_id).all()
+  
+  qnt_pedidos = len(itens_pedidos)
+  
+  for pedido in itens_pedidos:
+    if pedido.status_pedido == 'PENDENTE':
+      itens = session.get(Itens, pedido.item)
+      if itens:
+        itens.qnt_estoque += pedido.quantidade
+  
+    session.delete(pedido)  
+  session.delete(target_usuario)
+  session.refresh()
+  try:
+    session.commit()
+  except Exception:
+    session.rollback()
+    raise
+  
+  return {'mensagem': 'Usuário excluído com sucesso.',
+          'usuario_id': target_usuario.id,
+          'usuario_email': target_usuario.email,
+          'pedidos_excluídos': qnt_pedidos}
+    
+  
+    
+  
